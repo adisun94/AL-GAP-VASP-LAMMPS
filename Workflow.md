@@ -3,7 +3,7 @@
 
 Threshold value for energy comparison = $\epsilon$<sub>E</sub> eV/atom.
 
-Threshold value for force comparison = $\epsilon$<sub>F</sub> eV/ \AA.
+Threshold value for force comparison = $\epsilon$<sub>F</sub> eV/Angstrom.
 
 Configurations added per MD step = $n$
 
