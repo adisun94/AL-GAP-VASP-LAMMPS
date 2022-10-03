@@ -20,3 +20,16 @@ The configuration energies and interatomic forces are evaluated at the Density F
 /DUMPtoPOSCAR.py : convert dump files to VASP input format
 
 /INCAR, /KPOINTS, /POTCAR : VASP input scripts
+
+#### ---- example
+/gap/GAP.xml : latest trained GAP force field
+/gap/GAPintput$i$.xyz : Input configurations for $i$<sup>th</sup> iteration
+
+/lammps/lammpsdata$i$ : input configuration for the $i$<sup>th</sup> iteration
+/lammps/dump$i$ : dump file containing coordinates and forces generated after the $i$<sup>th</sup> iteration
+/lammps/energy$i$ : energy of configurations generated after the $i$<sup>th</sup> iteration
+/lammps/log.lammps$i$ : output of the $i$<sup>th</sup> iteration
+
+
+/vasp/$i$ : directory containing data from single point calculations for $n$ configurations selected in the $i$<sup>th</sup> iteration
+
