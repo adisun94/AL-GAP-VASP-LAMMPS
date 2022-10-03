@@ -1,6 +1,6 @@
 # AL-GAP-VASP-LAMMPS
 
-This repository contains an Active Learning algorithm to generate Gaussian Approximate Potentials (GAP).
+This repository contains an Active Learning workflow to generate Gaussian Approximate Potentials (GAP).
 
 The GAP method is originally published in [Bartok et al.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.104.136403)
 
