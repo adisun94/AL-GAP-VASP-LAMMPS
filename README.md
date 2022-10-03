@@ -10,15 +10,27 @@ The configuration energies and interatomic forces are evaluated at the Density F
 
 #### ---- ActiveLearning
 |
+
 |
+
 |---- <font color = 'red'>GAPinput.xyz</font> : input file from Step 0.0, used to train the GAP force field while starting the workflow.
+
 |
+
 |---- <font color = 'red'>submit.sh</font> : bash script to start workflow
+
 |
+
 |---- <font color = 'red'>GAPtoLMP.py </font>: convert xyz files to LAMMPS input format
+
 |
+
 |---- <font color = 'red'>in.lmp.temp </font>: LAMMPS input script
+
 |
+
 |---- <font color = 'red'>DUMPtoPOSCAR.py</font> : convert dump files to VASP input format
+
 |
+
 |---- <font color = 'red'>INCAR, KPOINTS, POTCAR</font> : VASP input scripts
