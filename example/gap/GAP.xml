@@ -1,0 +1,1778 @@
+<GAP_2022_9_29_-300_10_6_16_756>
+<Potential label="GAP_2022_9_29_-300_10_6_16_756" init_args="IP GAP label=GAP_2022_9_29_-300_10_6_16_756"/>
+<GAP_params label="GAP_2022_9_29_-300_10_6_16_756" gap_version="1618098511">
+  <GAP_data do_core="F">
+    <e0 Z="1" value=".00000000000000000E+000"/>
+    <e0 Z="2" value=".00000000000000000E+000"/>
+    <e0 Z="3" value=".00000000000000000E+000"/>
+    <e0 Z="4" value=".00000000000000000E+000"/>
+    <e0 Z="5" value=".00000000000000000E+000"/>
+    <e0 Z="6" value=".00000000000000000E+000"/>
+    <e0 Z="7" value=".00000000000000000E+000"/>
+    <e0 Z="8" value=".00000000000000000E+000"/>
+    <e0 Z="9" value=".00000000000000000E+000"/>
+    <e0 Z="10" value=".00000000000000000E+000"/>
+    <e0 Z="11" value=".00000000000000000E+000"/>
+    <e0 Z="12" value=".00000000000000000E+000"/>
+    <e0 Z="13" value=".00000000000000000E+000"/>
+    <e0 Z="14" value=".00000000000000000E+000"/>
+    <e0 Z="15" value=".00000000000000000E+000"/>
+    <e0 Z="16" value=".00000000000000000E+000"/>
+    <e0 Z="17" value="-.25791123999999999"/>
+    <e0 Z="18" value=".00000000000000000E+000"/>
+    <e0 Z="19" value=".00000000000000000E+000"/>
+    <e0 Z="20" value=".00000000000000000E+000"/>
+    <e0 Z="21" value=".00000000000000000E+000"/>
+    <e0 Z="22" value=".00000000000000000E+000"/>
+    <e0 Z="23" value=".00000000000000000E+000"/>
+    <e0 Z="24" value=".00000000000000000E+000"/>
+    <e0 Z="25" value=".00000000000000000E+000"/>
+    <e0 Z="26" value=".00000000000000000E+000"/>
+    <e0 Z="27" value=".00000000000000000E+000"/>
+    <e0 Z="28" value=".00000000000000000E+000"/>
+    <e0 Z="29" value=".00000000000000000E+000"/>
+    <e0 Z="30" value=".00000000000000000E+000"/>
+    <e0 Z="31" value=".00000000000000000E+000"/>
+    <e0 Z="32" value=".00000000000000000E+000"/>
+    <e0 Z="33" value=".00000000000000000E+000"/>
+    <e0 Z="34" value=".00000000000000000E+000"/>
+    <e0 Z="35" value=".00000000000000000E+000"/>
+    <e0 Z="36" value=".00000000000000000E+000"/>
+    <e0 Z="37" value=".00000000000000000E+000"/>
+    <e0 Z="38" value=".00000000000000000E+000"/>
+    <e0 Z="39" value=".00000000000000000E+000"/>
+    <e0 Z="40" value=".00000000000000000E+000"/>
+    <e0 Z="41" value=".00000000000000000E+000"/>
+    <e0 Z="42" value=".00000000000000000E+000"/>
+    <e0 Z="43" value=".00000000000000000E+000"/>
+    <e0 Z="44" value=".00000000000000000E+000"/>
+    <e0 Z="45" value=".00000000000000000E+000"/>
+    <e0 Z="46" value=".00000000000000000E+000"/>
+    <e0 Z="47" value=".00000000000000000E+000"/>
+    <e0 Z="48" value=".00000000000000000E+000"/>
+    <e0 Z="49" value=".00000000000000000E+000"/>
+    <e0 Z="50" value=".00000000000000000E+000"/>
+    <e0 Z="51" value=".00000000000000000E+000"/>
+    <e0 Z="52" value=".00000000000000000E+000"/>
+    <e0 Z="53" value=".00000000000000000E+000"/>
+    <e0 Z="54" value=".00000000000000000E+000"/>
+    <e0 Z="55" value=".00000000000000000E+000"/>
+    <e0 Z="56" value=".00000000000000000E+000"/>
+    <e0 Z="57" value=".00000000000000000E+000"/>
+    <e0 Z="58" value=".00000000000000000E+000"/>
+    <e0 Z="59" value=".00000000000000000E+000"/>
+    <e0 Z="60" value=".00000000000000000E+000"/>
+    <e0 Z="61" value=".00000000000000000E+000"/>
+    <e0 Z="62" value=".00000000000000000E+000"/>
+    <e0 Z="63" value=".00000000000000000E+000"/>
+    <e0 Z="64" value=".00000000000000000E+000"/>
+    <e0 Z="65" value=".00000000000000000E+000"/>
+    <e0 Z="66" value=".00000000000000000E+000"/>
+    <e0 Z="67" value=".00000000000000000E+000"/>
+    <e0 Z="68" value=".00000000000000000E+000"/>
+    <e0 Z="69" value=".00000000000000000E+000"/>
+    <e0 Z="70" value=".00000000000000000E+000"/>
+    <e0 Z="71" value=".00000000000000000E+000"/>
+    <e0 Z="72" value=".00000000000000000E+000"/>
+    <e0 Z="73" value=".00000000000000000E+000"/>
+    <e0 Z="74" value=".00000000000000000E+000"/>
+    <e0 Z="75" value=".00000000000000000E+000"/>
+    <e0 Z="76" value=".00000000000000000E+000"/>
+    <e0 Z="77" value=".00000000000000000E+000"/>
+    <e0 Z="78" value=".00000000000000000E+000"/>
+    <e0 Z="79" value=".00000000000000000E+000"/>
+    <e0 Z="80" value=".00000000000000000E+000"/>
+    <e0 Z="81" value=".00000000000000000E+000"/>
+    <e0 Z="82" value=".00000000000000000E+000"/>
+    <e0 Z="83" value=".00000000000000000E+000"/>
+    <e0 Z="84" value=".00000000000000000E+000"/>
+    <e0 Z="85" value=".00000000000000000E+000"/>
+    <e0 Z="86" value=".00000000000000000E+000"/>
+    <e0 Z="87" value=".00000000000000000E+000"/>
+    <e0 Z="88" value=".00000000000000000E+000"/>
+    <e0 Z="89" value=".00000000000000000E+000"/>
+    <e0 Z="90" value=".00000000000000000E+000"/>
+    <e0 Z="91" value=".00000000000000000E+000"/>
+    <e0 Z="92" value=".00000000000000000E+000"/>
+    <e0 Z="93" value=".00000000000000000E+000"/>
+    <e0 Z="94" value=".00000000000000000E+000"/>
+    <e0 Z="95" value=".00000000000000000E+000"/>
+    <e0 Z="96" value=".00000000000000000E+000"/>
+    <e0 Z="97" value=".00000000000000000E+000"/>
+    <e0 Z="98" value=".00000000000000000E+000"/>
+    <e0 Z="99" value=".00000000000000000E+000"/>
+    <e0 Z="100" value=".00000000000000000E+000"/>
+    <e0 Z="101" value=".00000000000000000E+000"/>
+    <e0 Z="102" value=".00000000000000000E+000"/>
+    <e0 Z="103" value=".00000000000000000E+000"/>
+    <e0 Z="104" value=".00000000000000000E+000"/>
+    <e0 Z="105" value=".00000000000000000E+000"/>
+    <e0 Z="106" value=".00000000000000000E+000"/>
+    <e0 Z="107" value=".00000000000000000E+000"/>
+    <e0 Z="108" value=".00000000000000000E+000"/>
+    <e0 Z="109" value=".00000000000000000E+000"/>
+    <e0 Z="110" value=".00000000000000000E+000"/>
+    <e0 Z="111" value=".00000000000000000E+000"/>
+    <e0 Z="112" value=".00000000000000000E+000"/>
+    <e0 Z="113" value=".00000000000000000E+000"/>
+    <e0 Z="114" value=".00000000000000000E+000"/>
+    <e0 Z="115" value=".00000000000000000E+000"/>
+    <e0 Z="116" value=".00000000000000000E+000"/>
+    <e0 Z="117" value=".00000000000000000E+000"/>
+    <e0 Z="118" value=".00000000000000000E+000"/>
+  </GAP_data>
+  <gpSparse label="GAP_2022_9_29_-300_10_6_16_756" n_coordinate="4">
+    <gpCoordinates label="GAP_2022_9_29_-300_10_6_16_7561" dimensions="681" signal_variance=".20000000000000001" signal_mean=".00000000000000000E+000" sparsified="T" n_permutations="1" covariance_type="2" zeta="4.0000000000000000" n_sparseX="200" sparseX_filename="GAP.xml.sparseX.GAP_2022_9_29_-300_10_6_16_7561" sparseX_md5sum="72febdde3dd8a069d6d89213a5931350">
+      <descriptor>soap l_max=4 n_max=4 covariance_type=dot_product zeta=4 delta=0.2 cutoff=4 atom_sigma=0.5 n_sparse=200 n_species=4 Z=3 species_Z={3 15 16 17 }</descriptor>
+      <permutation i="1">1  </permutation>
+      <sparseX i="1" alpha="-464.47264659745105" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="2" alpha="-1954.9699485436854" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="3" alpha="174253.16518691910" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="4" alpha="84038.820325844703" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="5" alpha="560.94166169553671" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="6" alpha="57559.434805099037" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="7" alpha="-26689.554267317002" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="8" alpha="-174914.50098362094" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="9" alpha="861.44496346745268" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="10" alpha="-83634.496898501893" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="11" alpha="321.47166240973309" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="12" alpha="-29764.220321580447" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="13" alpha="280.87497446208982" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="14" alpha="-16177.589226994753" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="15" alpha="-55.898393747286661" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="16" alpha="35877.619042596612" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="17" alpha="-22848.862263446394" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="18" alpha="723.65722000306187" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="19" alpha="177.02886402561577" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="20" alpha="38.612674269772938" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="21" alpha="30825.617890287882" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="22" alpha="16504.409339853926" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="23" alpha="-56896.290238468435" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="24" alpha="27052.186544701781" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="25" alpha="-25261.472734344501" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="26" alpha="3759.5833088513268" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="27" alpha="22644.826617664097" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="28" alpha="178.24608149306201" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="29" alpha="1833.8965599823430" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="30" alpha="2669.1385894445657" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="31" alpha="-146.53963757568329" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="32" alpha="-2703.8606943220016" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="33" alpha="-3347.6320377349384" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="34" alpha="-3307.3383899784026" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="35" alpha="-10228.509713076837" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="36" alpha="-3161.5658131342989" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="37" alpha="-239.17023155333541" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="38" alpha="526.24399299000584" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="39" alpha="-1022.2198588783597" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="40" alpha="71.871104040353160" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="41" alpha="1267.2604136264204" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="42" alpha="-588.07082142667934" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="43" alpha="-42.932872769051883" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="44" alpha="2661.1881887372601" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="45" alpha="-134.28100382192360" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="46" alpha="85.738960308775901" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="47" alpha="704.10862808273600" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="48" alpha="684.33349914989788" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="49" alpha="-240.35565838073421" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="50" alpha="1929.4911456950288" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="51" alpha="893.37182459143492" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="52" alpha="2267.4869495661228" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="53" alpha="-264.95777016303987" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="54" alpha="-753.17613106326553" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="55" alpha="-4536.0082811128077" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="56" alpha="-524.47591504455966" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="57" alpha="197.01059642668602" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="58" alpha="-35.281415054722920" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="59" alpha="-997.77344700734727" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="60" alpha="-3881.1000128565784" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="61" alpha="-248.77916330170697" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="62" alpha="-962.87305477465134" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="63" alpha="466.88924101823329" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="64" alpha="349.48985954060828" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="65" alpha="2419.1639405309834" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="66" alpha="469.35310531015887" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="67" alpha="-47.165794616354241" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="68" alpha="-229.16600298013191" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="69" alpha="-2416.1062814259853" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="70" alpha="-12.945021708378796" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="71" alpha="115.32922860354489" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="72" alpha="381.33317417033169" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="73" alpha="-1804.7543488135279" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="74" alpha="2040.2237190031060" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="75" alpha="-252.47772095228572" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="76" alpha="490.48954537033535" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="77" alpha="635.73716623065536" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="78" alpha="4.2649110666159666" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="79" alpha="-138.63131710510194" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="80" alpha="347.03335564255383" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="81" alpha="-890.38696814383752" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="82" alpha="-189.83564123414857" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="83" alpha="668.98969363305878" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="84" alpha="1285.5417302800890" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="85" alpha="-573.83872274329281" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="86" alpha="-707.56949274172143" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="87" alpha="1902.7023190424341" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="88" alpha="-304.72832094700618" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="89" alpha="-489.86837958924133" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="90" alpha="-658.73929264925425" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="91" alpha="1002.8667644735891" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="92" alpha="-1266.0609511124937" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="93" alpha="-8.5085479906612012" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="94" alpha="1717.4079604252404" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="95" alpha="697.90817899685521" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="96" alpha="-878.03325006766761" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="97" alpha="791.37767314639825" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="98" alpha="350.89212295615039" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="99" alpha="-553.80845912165933" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="100" alpha="538.12300016496613" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="101" alpha="-153.15966096031158" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="102" alpha="67.182334181689910" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="103" alpha="-189.49578945772782" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="104" alpha="733.88406744960537" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="105" alpha="-660.32632439592396" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="106" alpha="248.46859943315735" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="107" alpha="56.560621396488116" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="108" alpha="-222.05051879198808" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="109" alpha="-787.45984772827865" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="110" alpha="-12.695252646830985" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="111" alpha="-507.66336528154164" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="112" alpha="-1215.5204054430178" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="113" alpha="-581.14224767379199" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="114" alpha="-428.91393106688747" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="115" alpha="161.23673204380256" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="116" alpha="597.67852941113063" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="117" alpha="638.44569448868458" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="118" alpha="6702.1235234756205" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="119" alpha="-820.69547096720237" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="120" alpha="5738.2519152019968" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="121" alpha="-273.55814758786073" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="122" alpha="-10494.167153994820" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="123" alpha="151.62533304451026" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="124" alpha="-932.23679684697913" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="125" alpha="621.72286637335128" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="126" alpha="-443.02968376975042" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="127" alpha="83.174475398097940" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="128" alpha="754.96854343338930" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="129" alpha="2660.6214361796310" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="130" alpha="534.49577559497743" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="131" alpha="1488.0275677327902" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="132" alpha="-4094.1027149927395" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="133" alpha="3936.5188141820859" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="134" alpha="-4055.7386319350094" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="135" alpha="835.86814408899374" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="136" alpha="-48.475299723350773" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="137" alpha="-5121.7801134180108" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="138" alpha="-6828.5781461792840" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="139" alpha="-3895.0807681951369" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="140" alpha="1199.9693979723977" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="141" alpha="391.89616952662465" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="142" alpha="-1182.3369297066822" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="143" alpha="-1421.8526080918680" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="144" alpha="-704.88203857129179" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="145" alpha="1244.3696108813001" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="146" alpha="-808.62966961854363" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="147" alpha="-1335.1445204603278" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="148" alpha="-4532.1558311194640" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="149" alpha="3671.6994262391427" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="150" alpha="-318.25358272519293" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="151" alpha="-1540.3023501022872" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="152" alpha="-565.89505943662834" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="153" alpha="2342.4550372903195" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="154" alpha="8305.1367436252331" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="155" alpha="-499.57353858549800" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="156" alpha="12192.542232506124" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="157" alpha="-781.33426635366652" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="158" alpha="-296.75002067891683" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="159" alpha="1618.0131460680525" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="160" alpha="-1461.3003349382170" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="161" alpha="1225.5555956701953" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="162" alpha="721.46507189587282" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="163" alpha="598.44860578086264" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="164" alpha="-331.08253692818971" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="165" alpha="-1448.7641305700481" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="166" alpha="-60.712040410028152" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="167" alpha="4225.8574716116891" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="168" alpha="426.75924448363992" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="169" alpha="-239.97220387026354" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="170" alpha="37.392761378324764" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="171" alpha="-1515.2051669287746" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="172" alpha="1.4495127865435087" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="173" alpha="809.61454833250980" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="174" alpha="404.76536745197205" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="175" alpha="-3077.3806212839959" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="176" alpha="2677.5869796228844" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="177" alpha="-685.44475914099610" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="178" alpha="-2.2815193441766226" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="179" alpha="458.67389247083895" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="180" alpha="144.21661342931441" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="181" alpha="367.34294401999216" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="182" alpha="709.96620294619458" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="183" alpha="-177.73082065996627" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="184" alpha="-604.46722287118394" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="185" alpha="279.02444772627683" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="186" alpha="-5513.4693075933783" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="187" alpha="6.9202477651403997" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="188" alpha="-284.17331408013445" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="189" alpha="32.164954826313959" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="190" alpha="291.94030548210401" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="191" alpha="-165.44482965798906" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="192" alpha="47.794247162887061" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="193" alpha="684.46367556321434" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="194" alpha="33.522144486526400" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="195" alpha="-130.06750406034388" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="196" alpha="-899.20154263216295" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="197" alpha="328.70831630933742" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="198" alpha="12.986838034662995" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="199" alpha="-406.69091659543352" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="200" alpha="-23.242091307293844" sparseCutoff="1.0000000000000000"/>
+    </gpCoordinates>
+    <gpCoordinates label="GAP_2022_9_29_-300_10_6_16_7562" dimensions="681" signal_variance=".20000000000000001" signal_mean=".00000000000000000E+000" sparsified="T" n_permutations="1" covariance_type="2" zeta="4.0000000000000000" n_sparseX="80" sparseX_filename="GAP.xml.sparseX.GAP_2022_9_29_-300_10_6_16_7562" sparseX_md5sum="da6a91a2b63b1574493a760a0cf9784b">
+      <descriptor>soap l_max=4 n_max=4 covariance_type=dot_product zeta=4 delta=0.2 cutoff=4 atom_sigma=0.5 n_sparse=200 n_species=4 Z=15 species_Z={3 15 16 17 }</descriptor>
+      <permutation i="1">1  </permutation>
+      <sparseX i="1" alpha="73477.796270552659" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="2" alpha="88034.876414576705" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="3" alpha="-143703.49557361047" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="4" alpha="-37424.138197112072" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="5" alpha="-41033.229600203078" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="6" alpha="73695.804810592017" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="7" alpha="32167.609509088772" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="8" alpha="-40348.982729846080" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="9" alpha="-23759.304892845710" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="10" alpha="23989.418319078744" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="11" alpha="-153614.79490668402" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="12" alpha="-116881.11239565542" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="13" alpha="202134.91167696670" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="14" alpha="72402.043407742589" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="15" alpha="13258.248397578196" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="16" alpha="8614.1602323517873" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="17" alpha="-11108.576727919477" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="18" alpha="-14985.250083334022" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="19" alpha="-6687.5108693083985" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="20" alpha="436.85537095487149" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="21" alpha="1446.2339078611417" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="22" alpha="5522.2041852359080" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="23" alpha="1945.9823416309321" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="24" alpha="983.96292940175863" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="25" alpha="-148.49889154505570" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="26" alpha="630.76937188814475" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="27" alpha="-3723.5057370681216" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="28" alpha="-2592.3671501843219" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="29" alpha="-1537.4057210559854" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="30" alpha="2906.2117685252961" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="31" alpha="-4828.4392481736004" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="32" alpha="-13408.759530776710" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="33" alpha="1750.3890083708627" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="34" alpha="2056.2450030739410" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="35" alpha="-5573.8479727133117" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="36" alpha="5569.6829162070080" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="37" alpha="27020.777219786309" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="38" alpha="-740.81956151316592" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="39" alpha="-2242.6102861903692" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="40" alpha="3828.7158300583187" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="41" alpha="-3221.0716388104333" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="42" alpha="-17368.013049601072" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="43" alpha="-538.22019799129123" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="44" alpha="990.78280519133557" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="45" alpha="-1380.4037219063209" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="46" alpha="661.86550943132681" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="47" alpha="3657.4676979674064" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="48" alpha="379.07766720997677" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="49" alpha="124.41041740691620" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="50" alpha="217.88843590611384" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="51" alpha="-5874.2279737878780" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="52" alpha="11415.215847550733" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="53" alpha="-8630.8704079879917" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="54" alpha="-12769.558791361580" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="55" alpha="10258.663362278252" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="56" alpha="2567.4477565289362" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="57" alpha="24756.555118649718" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="58" alpha="-18.799085647697744" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="59" alpha="-3620.2530254678322" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="60" alpha="15244.107588726889" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="61" alpha="1606.0997166469474" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="62" alpha="-31302.087145442958" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="63" alpha="4792.2786037889009" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="64" alpha="12852.415672154411" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="65" alpha="-23901.435625581500" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="66" alpha="534.53903188727099" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="67" alpha="-6160.6834795163522" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="68" alpha="-8952.2627415453298" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="69" alpha="4814.9386383221508" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="70" alpha="401.41752522837550" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="71" alpha="-1548.0592411612668" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="72" alpha="6898.1155035491483" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="73" alpha="9298.4986072247884" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="74" alpha="-6067.7088994877204" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="75" alpha="1767.2206710272133" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="76" alpha="423.95770943726217" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="77" alpha="286.12161286740417" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="78" alpha="217.26743187613360" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="79" alpha="132.25980477592256" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="80" alpha="-512.13758475851205" sparseCutoff="1.0000000000000000"/>
+    </gpCoordinates>
+    <gpCoordinates label="GAP_2022_9_29_-300_10_6_16_7563" dimensions="681" signal_variance=".20000000000000001" signal_mean=".00000000000000000E+000" sparsified="T" n_permutations="1" covariance_type="2" zeta="4.0000000000000000" n_sparseX="200" sparseX_filename="GAP.xml.sparseX.GAP_2022_9_29_-300_10_6_16_7563" sparseX_md5sum="d969e70143d5b153d788c3c144e9be35">
+      <descriptor>soap l_max=4 n_max=4 covariance_type=dot_product zeta=4 delta=0.2 cutoff=4 atom_sigma=0.5 n_sparse=200 n_species=4 Z=16 species_Z={3 15 16 17 }</descriptor>
+      <permutation i="1">1  </permutation>
+      <sparseX i="1" alpha="231212.42196119434" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="2" alpha="-153840.94582347653" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="3" alpha="-2906.9143388457965" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="4" alpha="2633.1878489053770" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="5" alpha="-2336.7607931793209" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="6" alpha="42378.288813507468" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="7" alpha="3950.0181688039734" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="8" alpha="-107845.66047361307" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="9" alpha="-346592.40768066642" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="10" alpha="-491247.32091828762" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="11" alpha="-55000.884114283239" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="12" alpha="37.119919535414667" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="13" alpha="3376.9047330413000" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="14" alpha="33444.680337718892" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="15" alpha="527.85255962021381" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="16" alpha="26362.075475949037" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="17" alpha="218.11019059454782" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="18" alpha="-13350.602856251011" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="19" alpha="295.78341606647336" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="20" alpha="15302.132787945340" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="21" alpha="-241666.58627632124" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="22" alpha="-2707.4762986430792" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="23" alpha="-7948.4213988281444" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="24" alpha="-294.40768972114603" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="25" alpha="534207.56972968089" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="26" alpha="219435.15240283130" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="27" alpha="-74394.027221474884" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="28" alpha="87310.249187838504" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="29" alpha="-6409.5244860406674" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="30" alpha="2005.6180407417285" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="31" alpha="374252.40163842618" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="32" alpha="-613.53965099272341" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="33" alpha="786.42141040173931" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="34" alpha="13985.578645687639" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="35" alpha="853.22930858293694" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="36" alpha="-17099.679326891775" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="37" alpha="10690.406227857789" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="38" alpha="6138.0354518464701" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="39" alpha="-44307.955892959057" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="40" alpha="-11339.135975223233" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="41" alpha="2486.2854301436705" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="42" alpha="-2478.4236965090936" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="43" alpha="-1255.1726432314606" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="44" alpha="-4929.6823942483597" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="45" alpha="-534.28692451921552" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="46" alpha="-5476.6016739416591" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="47" alpha="4179.7630788195211" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="48" alpha="379.21872445282617" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="49" alpha="-28969.430656376764" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="50" alpha="358.60993171960206" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="51" alpha="-1157.7104345271489" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="52" alpha="1662.6734476983763" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="53" alpha="-946.04881360510547" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="54" alpha="215.98248840868416" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="55" alpha="-375.09674440095125" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="56" alpha="-333.58439873153355" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="57" alpha="896.00635663317826" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="58" alpha="1902.3251798328672" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="59" alpha="814.13775538748052" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="60" alpha="-532.05057295063921" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="61" alpha="93.628436340157236" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="62" alpha="-711.74579492843691" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="63" alpha="483.82453981506120" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="64" alpha="291.16396582813070" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="65" alpha="1332.1448888543357" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="66" alpha="752.31466559064097" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="67" alpha="418.62734661010080" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="68" alpha="1052.3984804835004" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="69" alpha="147.83738771437675" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="70" alpha="1502.1739142696078" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="71" alpha="-639.22914070385866" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="72" alpha="-1163.1531936151787" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="73" alpha="967.74213556602615" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="74" alpha="-2371.9160285832090" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="75" alpha="-169.65847089487426" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="76" alpha="-1803.0908978752743" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="77" alpha="-869.45893852882705" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="78" alpha="-672.65735024324283" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="79" alpha="2228.7062103501094" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="80" alpha="-4061.6629198542578" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="81" alpha="-268.58919876688759" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="82" alpha="-153.91977551708007" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="83" alpha="138.01011299348284" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="84" alpha="-373.42185742405928" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="85" alpha="3584.4187689311552" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="86" alpha="-238.80696460416658" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="87" alpha="466.00809918373119" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="88" alpha="-97.060819488609980" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="89" alpha="-4778.4693908474483" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="90" alpha="2784.0498772056235" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="91" alpha="60.436257235994013" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="92" alpha="379.29750400115353" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="93" alpha="-134.92651902061095" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="94" alpha="738.89971923867529" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="95" alpha="206.61031513885229" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="96" alpha="-7007.1980307888516" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="97" alpha="198.89511663646840" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="98" alpha="-2861.7955875788530" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="99" alpha="935.37611830522303" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="100" alpha="-1709.9975311071867" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="101" alpha="219.18574463493496" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="102" alpha="3642.3821352663977" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="103" alpha="-357.03888997069322" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="104" alpha="1085.3721782836374" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="105" alpha="6177.0873265722712" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="106" alpha="949.63012603254629" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="107" alpha="379.79472662056025" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="108" alpha="-131.75479262664521" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="109" alpha="-210.45828907970770" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="110" alpha="1316.8319606037885" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="111" alpha="-123.84928193799843" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="112" alpha="263.70544078531390" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="113" alpha="-1124.0033562172143" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="114" alpha="151.53526735658627" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="115" alpha="-299.05233215133126" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="116" alpha="-57.173159523352624" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="117" alpha="-147.82412643973456" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="118" alpha="-1630.5754950116893" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="119" alpha="72.071973239546310" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="120" alpha="-224.69366012167302" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="121" alpha="204.69385914806404" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="122" alpha="3914.5075220905846" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="123" alpha="3171.1199925486526" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="124" alpha="224.63616874035483" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="125" alpha="153.97027853076239" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="126" alpha="-3450.6449576506961" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="127" alpha="-256.51644920468351" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="128" alpha="-867.04345042762156" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="129" alpha="4781.9983850573853" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="130" alpha="-4264.7496523408290" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="131" alpha="-2751.7027059975098" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="132" alpha="-226.74282474901685" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="133" alpha="-1461.2575628886639" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="134" alpha="4838.3211281303311" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="135" alpha="-793.85860152411999" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="136" alpha="-1541.6436524441469" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="137" alpha="-16993.770559677068" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="138" alpha="17987.134386931011" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="139" alpha="209.18023382367596" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="140" alpha="9332.9928568181986" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="141" alpha="9790.0512245471946" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="142" alpha="463.61496375853477" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="143" alpha="-2617.1918800897038" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="144" alpha="-90.744061729258831" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="145" alpha="-11577.161521475715" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="146" alpha="2059.8388466036613" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="147" alpha="-9383.8513063807804" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="148" alpha="2100.7789546402369" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="149" alpha="2254.2227828434225" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="150" alpha="2443.2910366449296" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="151" alpha="16487.851788602275" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="152" alpha="475.33178525791345" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="153" alpha="-17781.898623508267" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="154" alpha="-8693.8438789545471" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="155" alpha="-7322.1448244917938" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="156" alpha="236.51175911607609" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="157" alpha="3210.0459766441345" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="158" alpha="9228.5663488271111" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="159" alpha="9144.5411318791412" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="160" alpha="405.37495456462045" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="161" alpha="-2029.0469060765201" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="162" alpha="-2216.6558261277883" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="163" alpha="-4029.9621093183387" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="164" alpha="3718.5977598165687" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="165" alpha="-19.304427878153241" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="166" alpha="1569.6368512680492" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="167" alpha="-125.42064925597201" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="168" alpha="539.08711221874967" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="169" alpha="-151.50592709774244" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="170" alpha="-4495.0333413238168" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="171" alpha="-608.41422853341021" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="172" alpha="501.56528179463510" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="173" alpha="3838.4295438080071" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="174" alpha="557.44350334853232" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="175" alpha="-1401.6907635439231" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="176" alpha="688.56503182426218" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="177" alpha="-3458.6752002852036" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="178" alpha="-2657.9056828085545" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="179" alpha="-1051.9988000163053" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="180" alpha="3700.2421419009615" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="181" alpha="398.34498140952593" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="182" alpha="-135.75269565404790" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="183" alpha="-3997.0298054996470" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="184" alpha="395.83401684762214" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="185" alpha="150.43661028068036" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="186" alpha="92.181100820944977" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="187" alpha="-189.41012992564657" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="188" alpha="-18.931690896694473" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="189" alpha="350.15582695313304" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="190" alpha="428.48560679834014" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="191" alpha="45.236729674683836" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="192" alpha="512.29634563220225" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="193" alpha="267.18302342560764" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="194" alpha="-397.54930966547977" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="195" alpha="-171.12064647417586" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="196" alpha="451.75782947354622" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="197" alpha="486.34423482408391" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="198" alpha="-79.963638431494005" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="199" alpha="728.20443658969577" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="200" alpha="302.92007948154094" sparseCutoff="1.0000000000000000"/>
+    </gpCoordinates>
+    <gpCoordinates label="GAP_2022_9_29_-300_10_6_16_7564" dimensions="681" signal_variance=".20000000000000001" signal_mean=".00000000000000000E+000" sparsified="T" n_permutations="1" covariance_type="2" zeta="4.0000000000000000" n_sparseX="80" sparseX_filename="GAP.xml.sparseX.GAP_2022_9_29_-300_10_6_16_7564" sparseX_md5sum="4cd96e7d3fbbc9bdfd2e8610fbae7cbf">
+      <descriptor>soap l_max=4 n_max=4 covariance_type=dot_product zeta=4 delta=0.2 cutoff=4 atom_sigma=0.5 n_sparse=200 n_species=4 Z=17 species_Z={3 15 16 17 }</descriptor>
+      <permutation i="1">1  </permutation>
+      <sparseX i="1" alpha="-87443.315928917043" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="2" alpha="-9199.2690805789407" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="3" alpha="67788.187631671914" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="4" alpha="-36571.484039584691" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="5" alpha="140167.59241324503" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="6" alpha="-55244.007869182184" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="7" alpha="55165.523257620844" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="8" alpha="70575.823958056426" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="9" alpha="-9779.0462804864801" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="10" alpha="97591.591780327930" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="11" alpha="148792.57803499169" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="12" alpha="-47024.640598265905" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="13" alpha="-146893.40701867972" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="14" alpha="51107.879449636421" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="15" alpha="-256193.61247983604" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="16" alpha="-3077.8691802108906" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="17" alpha="363.40202312988185" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="18" alpha="9820.8241824714514" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="19" alpha="-6270.8495865718669" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="20" alpha="13543.674997350307" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="21" alpha="-4554.5054864827780" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="22" alpha="599.31464136780369" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="23" alpha="1781.8639818570757" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="24" alpha="1067.2910547120830" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="25" alpha="3027.8722605796133" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="26" alpha="28205.701443689792" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="27" alpha="272.59368835024662" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="28" alpha="-570.63762208864898" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="29" alpha="995.42287537475249" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="30" alpha="5507.9269703443206" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="31" alpha="-61500.132973950407" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="32" alpha="-4032.2396498871922" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="33" alpha="-5451.0011064255868" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="34" alpha="-4904.5370805511229" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="35" alpha="-19966.802123560814" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="36" alpha="54576.347572457678" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="37" alpha="5285.2014735282928" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="38" alpha="7422.7797774549390" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="39" alpha="2991.3756485575627" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="40" alpha="17168.569272612174" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="41" alpha="-20271.131109756028" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="42" alpha="-1731.7840663994632" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="43" alpha="-3801.5390459798778" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="44" alpha="901.45828772727293" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="45" alpha="-5664.3560428644168" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="46" alpha="3006.3211944556679" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="47" alpha="-251.37463006640618" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="48" alpha="812.89282821382801" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="49" alpha="-637.66096856994363" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="50" alpha="-160.87523163932747" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="51" alpha="-8664.5038717887001" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="52" alpha="248.12604017768379" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="53" alpha="-4374.3999451493873" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="54" alpha="2411.4209722117967" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="55" alpha="12305.651861745073" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="56" alpha="19792.822018656705" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="57" alpha="-3362.8492689937862" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="58" alpha="9096.8158619462029" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="59" alpha="5248.8582875076818" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="60" alpha="-3947.8391975274567" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="61" alpha="-11403.856404046217" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="62" alpha="4081.8363257429660" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="63" alpha="-5137.7372617122892" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="64" alpha="-6798.5737716108342" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="65" alpha="-6052.5563609894907" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="66" alpha="-969.79390426789951" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="67" alpha="1830.1768795731471" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="68" alpha="-1510.4146061783806" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="69" alpha="56.417430643954496" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="70" alpha="2657.9202109297139" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="71" alpha="-1131.0708033347903" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="72" alpha="-2606.5180388824897" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="73" alpha="389.84570744774430" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="74" alpha="-229.18958919189708" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="75" alpha="144.32607252027728" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="76" alpha="66.206265374338770" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="77" alpha="400.64251235647583" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="78" alpha="-52.607101630425760" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="79" alpha="258.41335744899061" sparseCutoff="1.0000000000000000"/>
+      <sparseX i="80" alpha="-185.70451395985000" sparseCutoff="1.0000000000000000"/>
+    </gpCoordinates>
+  </gpSparse>
+  <command_line><![CDATA[ atoms_filename=GAPinput4.xyz gp_file=GAP.xml gap={soap l_max=4 n_max=4 covariance_type=dot_product zeta=4 delta=0.2 cutoff=4 atom_sigma=0.5 n_sparse=200} default_sigma={0.002 0.1 0.1 0.0} e0=Li:-.29849279 e0=P:-1.8869919 e0=S:-.89046138 e0=Cl:-.25791124]]></command_line>
+  <XYZ_data>
+    <![CDATA[65]]>
+    <![CDATA[energy=-260.63377476 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 6.2003 9.282 12.24954 3 -0.002452 0.000863 0.001808]]>
+    <![CDATA[Li 7.6123 5.77519 7.56311 3 -0.0034 -0.000105 0.002062]]>
+    <![CDATA[Li 2.51672 1.79265 0.46496 3 -0.000197 0.00401 -0.001127]]>
+    <![CDATA[Li 1.45255 7.74107 2.56984 3 0.003144 0.000135 0.000329]]>
+    <![CDATA[Li 3.0932 2.24493 3.93777 3 -0.000164 -1.5e-05 -0.003827]]>
+    <![CDATA[Li 1.96757 0.44835 8.16852 3 -0.000768 -0.005116 0.001128]]>
+    <![CDATA[Li 7.52926 5.67911 2.66657 3 -0.000971 0.000457 0.001033]]>
+    <![CDATA[Li 5.31071 0.59971 3.71487 3 0.002293 0.001612 -0.000823]]>
+    <![CDATA[Li 10.03432 9.6555 7.08202 3 0.002752 -0.002228 -0.001933]]>
+    <![CDATA[Li 9.75566 4.23598 2.74568 3 -0.002733 -0.003418 0.001286]]>
+    <![CDATA[Li 4.34871 9.85652 6.54389 3 -0.005037 0.001225 0.001256]]>
+    <![CDATA[Li 9.05638 5.93555 0.03322 3 0.001937 -8.5e-05 0.003662]]>
+    <![CDATA[Li 0.35707 3.78223 9.03363 3 0.000969 0.002217 -0.001194]]>
+    <![CDATA[Li 3.06248 5.3641 7.32583 3 0.003214 -0.003957 -0.001213]]>
+    <![CDATA[Li 6.55451 2.23545 12.1689 3 -0.001674 0.002942 -0.000175]]>
+    <![CDATA[Li 8.9338 1.90097 10.09791 3 0.001865 -0.00282 -0.001697]]>
+    <![CDATA[Li 6.47471 5.45135 12.14666 3 -0.000847 0.001175 0.002271]]>
+    <![CDATA[Li 4.98417 4.1134 5.33879 3 0.001281 -3.1e-05 -0.00015]]>
+    <![CDATA[Li 4.73548 6.88272 1.72296 3 0.001536 0.001872 -0.000449]]>
+    <![CDATA[Li 2.16312 7.80302 10.73325 3 -0.001152 0.00232 -0.000862]]>
+    <![CDATA[Li 7.25566 2.39688 2.68491 3 0.001562 -0.004128 0.001882]]>
+    <![CDATA[Li 9.83638 7.15389 9.07193 3 0.000768 -0.002483 0.000767]]>
+    <![CDATA[Li 0.04953 3.83201 5.74072 3 0.005755 7.3e-05 0.000177]]>
+    <![CDATA[Li 9.37686 1.99217 0.54094 3 0.004383 0.000971 -0.003319]]>
+    <![CDATA[Li 7.42213 1.44352 5.49346 3 5.8e-05 -0.001144 0.003562]]>
+    <![CDATA[Li 5.52083 6.47206 9.54957 3 7.3e-05 -0.00035 0.001174]]>
+    <![CDATA[Li 6.43624 8.35404 3.14838 3 -0.002191 -0.000624 -0.000106]]>
+    <![CDATA[Li 7.06283 0.12517 9.5506 3 -0.002912 0.0039 0.002691]]>
+    <![CDATA[Li 6.18752 2.8195 7.70693 3 -0.000837 -0.000647 -9.6e-05]]>
+    <![CDATA[Li 8.85463 8.89416 0.61958 3 0.001064 0.002773 0.001022]]>
+    <![CDATA[P 2.90523 6.24528 4.1584 15 0.000692 0.001723 0.002015]]>
+    <![CDATA[P 2.92928 4.70318 10.90718 15 -0.000168 0.003206 -0.004454]]>
+    <![CDATA[P 0.97141 4.42774 12.0219 15 -9.8e-05 -0.002329 0.003794]]>
+    <![CDATA[P 2.03683 7.24987 6.03482 15 -0.005094 -5e-06 -0.00699]]>
+    <![CDATA[P 10.22008 6.35712 5.5975 15 0.004138 -0.003681 0.003806]]>
+    <![CDATA[S 3.80542 1.04789 9.9786 16 0.001449 -0.000323 -0.001463]]>
+    <![CDATA[S 3.95717 9.07225 2.66719 16 -0.001788 0.000198 0.00126]]>
+    <![CDATA[S 4.42859 9.30801 10.20867 16 -0.000566 0.002864 -0.000293]]>
+    <![CDATA[S 2.02566 9.33222 5.86266 16 0.001811 0.005526 0.003328]]>
+    <![CDATA[S 8.94771 7.55349 6.76621 16 0.003067 0.002428 -0.004624]]>
+    <![CDATA[S 0.27674 2.04323 7.33523 16 -6.4e-05 -7.2e-05 0.000833]]>
+    <![CDATA[S 5.03322 6.32211 4.16782 16 -6.5e-05 -1.2e-05 -0.000692]]>
+    <![CDATA[S 4.09906 6.29534 11.69974 16 0.000875 0.001916 0.000144]]>
+    <![CDATA[S 1.75772 4.02659 1.6958 16 -0.002133 0.000588 -0.002195]]>
+    <![CDATA[S 1.84168 5.67239 9.32097 16 -0.002868 -0.001633 0.001111]]>
+    <![CDATA[S 7.96366 3.91675 1.04639 16 -0.00078 0.004001 -0.000404]]>
+    <![CDATA[S 7.8908 5.94728 10.12986 16 -0.003002 -0.001873 -2.8e-05]]>
+    <![CDATA[S 0.81971 2.51772 11.18431 16 -0.002569 -0.001819 -0.000449]]>
+    <![CDATA[S 9.7196 6.71934 3.57402 16 0.000702 0.001694 0.004624]]>
+    <![CDATA[S 1.00736 2.1869 2.36337 16 0.000391 0.000598 -0.001917]]>
+    <![CDATA[S 8.0173 0.41611 11.71676 16 0.001368 0.000536 -0.00134]]>
+    <![CDATA[S 8.54839 1.28692 7.63975 16 -0.000952 -0.000313 -0.005226]]>
+    <![CDATA[S 5.00613 1.72601 5.71951 16 -0.000645 0.001874 -0.002815]]>
+    <![CDATA[S 7.03555 7.39839 1.0777 16 -0.00253 -0.000915 -0.005119]]>
+    <![CDATA[S 8.21805 4.09478 9.12861 16 0.00353 -0.002995 0.003933]]>
+    <![CDATA[S 4.7678 1.96551 1.71249 16 -0.000385 0.001803 0.000748]]>
+    <![CDATA[S 5.49574 2.21066 9.8788 16 -0.001544 -0.001993 0.002049]]>
+    <![CDATA[S 5.51016 8.76839 8.51719 16 -0.002467 0.001916 -0.005161]]>
+    <![CDATA[S 4.20551 0.0655 1.01087 16 0.002017 -0.000632 0.001033]]>
+    <![CDATA[S 2.51771 4.35755 5.08944 16 0.002504 -0.005664 -0.002553]]>
+    <![CDATA[Cl 5.33978 5.13341 7.53462 17 0.001145 -0.001568 0.002086]]>
+    <![CDATA[Cl 8.13171 3.59949 4.63342 17 -0.003224 -0.000542 0.001588]]>
+    <![CDATA[Cl 0.69728 9.231 9.42313 17 -0.001369 0.001552 -0.00132]]>
+    <![CDATA[Cl 7.59802 0.14993 3.50659 17 -0.00334 0.001139 -0.000598]]>
+    <![CDATA[Cl 0.67654 7.81322 0.36187 17 -3e-05 -0.00243 0.002202]]>
+    <![CDATA[65]]>
+    <![CDATA[energy=-260.63382122 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 6.20008 9.28208 12.24971 3 -0.001304 0.000897 0.001422]]>
+    <![CDATA[Li 7.612 5.77518 7.56331 3 -0.002156 0.00053 0.001906]]>
+    <![CDATA[Li 2.5167 1.79302 0.46485 3 0.000342 0.003476 -0.000982]]>
+    <![CDATA[Li 1.45284 7.74107 2.56988 3 0.002493 -3.5e-05 0.000215]]>
+    <![CDATA[Li 3.09319 2.24493 3.93741 3 4.3e-05 -2e-06 -0.003575]]>
+    <![CDATA[Li 1.9675 0.44788 8.16863 3 -0.000667 -0.004061 0.000766]]>
+    <![CDATA[Li 7.52918 5.67914 2.66666 3 -0.000721 0.000345 0.000862]]>
+    <![CDATA[Li 5.31092 0.59986 3.7148 3 0.001536 0.001306 -0.000437]]>
+    <![CDATA[Li 10.03458 9.65529 7.08184 3 0.00206 -0.001485 -0.001788]]>
+    <![CDATA[Li 9.75541 4.23566 2.7458 3 -0.002592 -0.003016 0.001246]]>
+    <![CDATA[Li 4.34825 9.85664 6.544 3 -0.003897 0.001561 0.001057]]>
+    <![CDATA[Li 9.05656 5.93554 0.03356 3 0.001385 6.4e-05 0.003077]]>
+    <![CDATA[Li 0.35716 3.78242 9.03353 3 0.000387 0.001396 -0.001025]]>
+    <![CDATA[Li 3.06277 5.36374 7.32572 3 0.001719 -0.003009 -0.000926]]>
+    <![CDATA[Li 6.55437 2.23571 12.16889 3 -0.000687 0.0023 -0.000107]]>
+    <![CDATA[Li 8.93398 1.9007 10.09775 3 0.001876 -0.002583 -0.001796]]>
+    <![CDATA[Li 6.47464 5.45145 12.14688 3 -0.000417 0.000894 0.001718]]>
+    <![CDATA[Li 4.98429 4.11339 5.33877 3 0.001266 -0.000209 -0.000398]]>
+    <![CDATA[Li 4.73562 6.88289 1.72292 3 0.001095 0.001546 -0.00051]]>
+    <![CDATA[Li 2.16301 7.80323 10.73317 3 -0.000946 0.001936 -0.000677]]>
+    <![CDATA[Li 7.25581 2.39651 2.68508 3 0.001912 -0.002789 0.000847]]>
+    <![CDATA[Li 9.83644 7.15366 9.07201 3 0.000392 -0.002125 0.000529]]>
+    <![CDATA[Li 0.05007 3.83201 5.74074 3 0.004819 -0.000104 -4e-05]]>
+    <![CDATA[Li 9.37726 1.99226 0.54063 3 0.002773 0.000954 -0.002774]]>
+    <![CDATA[Li 7.42213 1.44341 5.49379 3 -0.000115 -0.000979 0.002533]]>
+    <![CDATA[Li 5.52084 6.47203 9.54968 3 7.4e-05 -0.000115 0.001126]]>
+    <![CDATA[Li 6.43605 8.35398 3.14836 3 -0.001733 -0.000438 -0.000189]]>
+    <![CDATA[Li 7.06255 0.12552 9.55086 3 -0.003037 0.003232 0.002199]]>
+    <![CDATA[Li 6.18745 2.81943 7.70693 3 -0.000695 -0.000668 -5.6e-05]]>
+    <![CDATA[Li 8.85473 8.89441 0.61968 3 0.000615 0.002136 0.000968]]>
+    <![CDATA[P 2.90525 6.24531 4.15844 15 0.000554 0.000697 0.00101]]>
+    <![CDATA[P 2.92928 4.70325 10.90709 15 -0.0002 0.002885 -0.003131]]>
+    <![CDATA[P 0.97141 4.42769 12.02198 15 -8.7e-05 -0.001972 0.002257]]>
+    <![CDATA[P 2.03673 7.24987 6.03468 15 -0.003324 0.000122 -0.004304]]>
+    <![CDATA[P 10.22017 6.35704 5.59758 15 0.002878 -0.002547 0.002525]]>
+    <![CDATA[S 3.80545 1.04788 9.97858 16 0.000105 -0.000359 -0.001466]]>
+    <![CDATA[S 3.95713 9.07225 2.66721 16 -0.001753 0.000587 0.001163]]>
+    <![CDATA[S 4.42858 9.30806 10.20867 16 -0.000165 0.002059 -0.000918]]>
+    <![CDATA[S 2.02569 9.33233 5.86273 16 0.000961 0.004258 0.002567]]>
+    <![CDATA[S 8.94778 7.55354 6.76612 16 0.002676 0.001153 -0.003743]]>
+    <![CDATA[S 0.27674 2.04323 7.33525 16 8.7e-05 -0.000521 0.001114]]>
+    <![CDATA[S 5.03322 6.3221 4.16781 16 -8.3e-05 3.7e-05 -0.000257]]>
+    <![CDATA[S 4.09908 6.29537 11.69974 16 0.000302 0.001626 -0.000202]]>
+    <![CDATA[S 1.75768 4.02661 1.69576 16 -0.001669 0.000622 -0.001274]]>
+    <![CDATA[S 1.84162 5.67236 9.32099 16 -0.002261 -0.000756 -2.6e-05]]>
+    <![CDATA[S 7.96365 3.91683 1.04638 16 -0.000746 0.003005 0.000309]]>
+    <![CDATA[S 7.89074 5.94724 10.12986 16 -0.002507 -0.002157 0.000284]]>
+    <![CDATA[S 0.81966 2.51768 11.1843 16 -0.001553 -0.001341 -0.000785]]>
+    <![CDATA[S 9.71962 6.71937 3.57411 16 0.001018 0.001106 0.00441]]>
+    <![CDATA[S 1.00737 2.18691 2.36333 16 0.000176 0.000388 -0.001784]]>
+    <![CDATA[S 8.01733 0.41612 11.71673 16 0.000942 0.000995 -0.00093]]>
+    <![CDATA[S 8.54837 1.28691 7.63965 16 -0.000188 -0.000815 -0.004648]]>
+    <![CDATA[S 5.00612 1.72604 5.71945 16 -0.000819 0.001715 -0.002353]]>
+    <![CDATA[S 7.0355 7.39837 1.0776 16 -0.002045 0.000185 -0.00415]]>
+    <![CDATA[S 8.21813 4.09472 9.12869 16 0.003091 -0.002496 0.003675]]>
+    <![CDATA[S 4.7678 1.96554 1.7125 16 -0.000658 0.00149 0.000566]]>
+    <![CDATA[S 5.49571 2.21062 9.87884 16 -0.000934 -0.00101 0.001659]]>
+    <![CDATA[S 5.51011 8.76842 8.51708 16 -0.00297 0.002082 -0.004314]]>
+    <![CDATA[S 4.20555 0.06549 1.0109 16 0.00113 8.1e-05 0.001262]]>
+    <![CDATA[S 2.51776 4.35743 5.08938 16 0.002811 -0.004416 -0.002923]]>
+    <![CDATA[Cl 5.3398 5.13337 7.53466 17 0.001155 -0.001585 0.002008]]>
+    <![CDATA[Cl 8.13165 3.59947 4.63345 17 -0.002727 -0.00066 0.00196]]>
+    <![CDATA[Cl 0.69725 9.23103 9.42311 17 -0.001881 0.000965 -0.000753]]>
+    <![CDATA[Cl 7.59796 0.14994 3.50658 17 -0.002677 0.000373 -0.000369]]>
+    <![CDATA[Cl 0.67654 7.81318 0.36192 17 0.00013 -0.00232 0.002208]]>
+    <![CDATA[65]]>
+    <![CDATA[energy=-260.63386963 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 6.19868 9.28275 12.25095 3 0.005563 0.001166 -0.001342]]>
+    <![CDATA[Li 7.60994 5.77536 7.56484 3 0.005764 0.004199 0.000862]]>
+    <![CDATA[Li 2.51679 1.79586 0.46404 3 0.004264 -0.000538 -0.000312]]>
+    <![CDATA[Li 1.45499 7.74108 2.57009 3 -0.001698 -0.000875 -0.000658]]>
+    <![CDATA[Li 3.09314 2.24494 3.93456 3 0.001505 -0.000138 -0.002038]]>
+    <![CDATA[Li 1.96695 0.44438 8.16939 3 0.000428 0.003835 -0.001929]]>
+    <![CDATA[Li 7.52856 5.67943 2.66739 3 0.000883 -0.000196 0.000176]]>
+    <![CDATA[Li 5.31238 0.60096 3.71433 3 -0.003351 -0.000969 0.001842]]>
+    <![CDATA[Li 10.03638 9.65385 7.08039 3 -0.002885 0.003655 -0.00048]]>
+    <![CDATA[Li 9.75338 4.23316 2.74677 3 -0.001511 3.9e-05 0.001088]]>
+    <![CDATA[Li 4.34487 9.85771 6.54489 3 0.00415 0.002951 -0.000443]]>
+    <![CDATA[Li 9.05784 5.93553 0.03617 3 -0.002025 0.00136 -0.000836]]>
+    <![CDATA[Li 0.3577 3.78378 9.03269 3 -0.003199 -0.003867 2.1e-05]]>
+    <![CDATA[Li 3.0646 5.36108 7.32492 3 -0.007655 0.003344 0.00104]]>
+    <![CDATA[Li 6.55352 2.2377 12.1688 3 0.005396 -0.001711 0.000278]]>
+    <![CDATA[Li 8.93546 1.89862 10.0964 3 0.001881 -0.000821 -0.002645]]>
+    <![CDATA[Li 6.47419 5.45222 12.14844 3 0.001937 -0.001063 -0.002325]]>
+    <![CDATA[Li 4.98529 4.1133 5.33855 3 0.00152 -0.001128 -0.001794]]>
+    <![CDATA[Li 4.73664 6.88418 1.72254 3 -0.002015 -0.000779 -0.000591]]>
+    <![CDATA[Li 2.16224 7.80483 10.7326 3 0.000714 -0.000303 0.000751]]>
+    <![CDATA[Li 7.25719 2.39388 2.6861 3 0.00362 0.005367 -0.005161]]>
+    <![CDATA[Li 9.83686 7.15186 9.07253 3 -0.001979 0.000118 -0.000881]]>
+    <![CDATA[Li 0.05414 3.83195 5.7408 3 -0.001953 -0.001205 -0.001396]]>
+    <![CDATA[Li 9.37997 1.99299 0.53831 3 -0.007768 0.000796 0.001272]]>
+    <![CDATA[Li 7.42213 1.44257 5.49613 3 -0.001285 9.6e-05 -0.00472]]>
+    <![CDATA[Li 5.52092 6.47186 9.55056 3 -0.000145 0.001486 0.000635]]>
+    <![CDATA[Li 6.43456 8.35356 3.14827 3 0.000717 0.00101 0.000241]]>
+    <![CDATA[Li 7.06023 0.12822 9.55274 3 -0.003996 -0.001344 -0.00176]]>
+    <![CDATA[Li 6.1869 2.81891 7.7069 3 0.00063 -0.000456 0.000432]]>
+    <![CDATA[Li 8.85539 8.89626 0.62047 3 -0.001722 -0.002409 0.000909]]>
+    <![CDATA[P 2.90538 6.24549 4.15871 15 -0.000282 -0.005399 -0.005964]]>
+    <![CDATA[P 2.92927 4.70376 10.90645 15 -0.000616 0.000183 0.00567]]>
+    <![CDATA[P 0.97142 4.4273 12.02251 15 -0.000209 0.00105 -0.008288]]>
+    <![CDATA[P 2.03602 7.24987 6.03373 15 0.009023 0.000435 0.013931]]>
+    <![CDATA[P 10.2208 6.35649 5.59814 15 -0.004793 0.004308 -0.005445]]>
+    <![CDATA[S 3.80559 1.0478 9.97835 16 -0.008172 -0.000415 -0.000914]]>
+    <![CDATA[S 3.95686 9.07229 2.66744 16 -0.000334 0.002443 0.00129]]>
+    <![CDATA[S 4.42855 9.30847 10.20858 16 0.002557 -0.003231 -0.004025]]>
+    <![CDATA[S 2.02595 9.33313 5.86324 16 -0.004094 -0.003946 -0.00261]]>
+    <![CDATA[S 8.94829 7.55381 6.76545 16 -0.000319 -0.007353 0.003728]]>
+    <![CDATA[S 0.27678 2.04316 7.33543 16 0.002746 -0.003205 0.002574]]>
+    <![CDATA[S 5.03323 6.32209 4.16774 16 0.000405 0.000488 0.001284]]>
+    <![CDATA[S 4.09919 6.29566 11.69976 16 -0.002835 0.000516 -0.002197]]>
+    <![CDATA[S 1.75738 4.02671 1.69549 16 0.001427 0.001484 0.004457]]>
+    <![CDATA[S 1.84121 5.67214 9.32107 16 0.001373 0.005022 -0.008399]]>
+    <![CDATA[S 7.96353 3.91739 1.0464 16 -0.000776 -0.003913 0.005047]]>
+    <![CDATA[S 7.8903 5.94689 10.12991 16 0.000618 -0.002381 0.004002]]>
+    <![CDATA[S 0.81933 2.51741 11.18421 16 0.005009 0.002167 -0.003231]]>
+    <![CDATA[S 9.71979 6.71958 3.57488 16 0.002805 -0.003531 0.000128]]>
+    <![CDATA[S 1.00743 2.18697 2.36303 16 -0.001831 -0.001818 -0.000403]]>
+    <![CDATA[S 8.01753 0.41626 11.71656 16 -0.002797 0.005348 0.002506]]>
+    <![CDATA[S 8.54829 1.28679 7.63883 16 0.003377 -0.004643 0.000434]]>
+    <![CDATA[S 5.00603 1.72631 5.71903 16 -0.00107 -6e-06 -0.000453]]>
+    <![CDATA[S 7.03513 7.3983 1.07684 16 0.000962 0.006439 0.002837]]>
+    <![CDATA[S 8.2187 4.09422 9.12935 16 -0.000208 -0.000845 0.000872]]>
+    <![CDATA[S 4.76775 1.9658 1.71262 16 -0.000554 -0.000237 -0.000274]]>
+    <![CDATA[S 5.49554 2.21035 9.87917 16 0.003383 0.004961 -0.000537]]>
+    <![CDATA[S 5.50967 8.76876 8.51631 16 -0.004473 0.003368 0.001371]]>
+    <![CDATA[S 4.20584 0.06543 1.0111 16 -0.004223 0.004245 0.00137]]>
+    <![CDATA[S 2.51825 4.35657 5.08894 16 0.006008 0.002767 -0.004673]]>
+    <![CDATA[Cl 5.34 5.1331 7.535 17 0.000966 -0.00301 0.002069]]>
+    <![CDATA[Cl 8.13121 3.59937 4.63373 17 0.000801 -0.001277 0.002855]]>
+    <![CDATA[Cl 0.69704 9.23119 9.42297 17 -0.005277 -0.00359 0.00237]]>
+    <![CDATA[Cl 7.59751 0.15005 3.50652 17 -0.000148 -0.003911 0.00112]]>
+    <![CDATA[Cl 0.67657 7.81279 0.36228 17 0.00019 -0.001286 0.002642]]>
+    <![CDATA[65]]>
+    <![CDATA[energy=-260.57684139 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 6.18091 9.29447 12.26977 3 0.097098 0.001585 -0.040632]]>
+    <![CDATA[Li 7.58197 5.78164 7.5901 3 0.113108 0.043012 -0.015033]]>
+    <![CDATA[Li 2.52174 1.84071 0.45075 3 0.051974 -0.053492 0.012561]]>
+    <![CDATA[Li 1.48793 7.74042 2.57303 3 -0.063951 -0.009825 -0.012501]]>
+    <![CDATA[Li 3.09366 2.24507 3.88734 3 0.025151 0.002316 0.029087]]>
+    <![CDATA[Li 1.95852 0.39189 8.17996 3 0.024771 0.128608 -0.043316]]>
+    <![CDATA[Li 7.51951 5.68389 2.67914 3 0.022162 -0.004868 -0.009968]]>
+    <![CDATA[Li 5.33284 0.61774 3.70834 3 -0.074873 -0.031347 0.03232]]>
+    <![CDATA[Li 10.06274 9.6339 7.05696 3 -0.077846 0.070453 0.024383]]>
+    <![CDATA[Li 9.71979 4.19328 2.76325 3 0.026784 0.043981 -0.003821]]>
+    <![CDATA[Li 4.2945 9.87729 6.55866 3 0.130224 0.020258 -0.021624]]>
+    <![CDATA[Li 9.07656 5.9365 0.07728 3 -0.046563 0.02039 -0.056098]]>
+    <![CDATA[Li 0.36363 3.80212 9.01935 3 -0.048007 -0.074512 0.017243]]>
+    <![CDATA[Li 3.08761 5.32135 7.31312 3 -0.120168 0.089144 0.029423]]>
+    <![CDATA[Li 6.54444 2.26794 12.1677 3 0.080763 -0.055855 0.003867]]>
+    <![CDATA[Li 8.96083 1.86461 10.07257 3 0.00189 0.018792 -0.011704]]>
+    <![CDATA[Li 6.46868 5.4635 12.17138 3 0.030439 -0.03256 -0.063403]]>
+    <![CDATA[Li 5.00261 4.11091 5.33349 3 0.003717 -0.009928 -0.018151]]>
+    <![CDATA[Li 4.75122 6.90404 1.71608 3 -0.050207 -0.037498 -0.000439]]>
+    <![CDATA[Li 2.15058 7.83019 10.72428 3 0.024068 -0.038762 0.024279]]>
+    <![CDATA[Li 7.28224 2.35639 2.6982 3 0.012677 0.119127 -0.079639]]>
+    <![CDATA[Li 9.84186 7.12319 9.08021 3 -0.03227 0.036709 -0.020658]]>
+    <![CDATA[Li 0.11764 3.8301 5.7408 3 -0.092116 -0.014351 -0.012717]]>
+    <![CDATA[Li 9.41677 2.00529 0.50241 3 -0.156094 -0.00994 0.070771]]>
+    <![CDATA[Li 7.42091 1.42915 5.52955 3 -0.023474 0.019623 -0.114449]]>
+    <![CDATA[Li 5.52201 6.47035 9.56523 3 -0.005307 0.020146 -0.012861]]>
+    <![CDATA[Li 6.41148 8.34767 3.14708 3 0.035891 0.020806 0.006724]]>
+    <![CDATA[Li 7.0198 0.17015 9.58141 3 -0.00704 -0.070085 -0.050841]]>
+    <![CDATA[Li 6.17867 2.8102 7.70684 3 0.019163 0.00746 0.004494]]>
+    <![CDATA[Li 8.86462 8.92376 0.63383 3 -0.030482 -0.065808 -0.002336]]>
+    <![CDATA[P 2.90742 6.24739 4.16193 15 -0.009345 -0.084306 -0.093817]]>
+    <![CDATA[P 2.92892 4.71202 10.89735 15 -0.008271 -0.040761 0.119084]]>
+    <![CDATA[P 0.97154 4.42125 12.02945 15 -0.008137 0.052459 -0.156733]]>
+    <![CDATA[P 2.02659 7.24986 6.02129 15 0.182771 0.013501 0.252671]]>
+    <![CDATA[P 10.22996 6.34845 5.60608 15 -0.102871 0.086994 -0.110015]]>
+    <![CDATA[S 3.80639 1.0464 9.97455 16 -0.111351 0.009805 0.009152]]>
+    <![CDATA[S 3.95257 9.07345 2.67132 16 0.017767 0.030789 -0.000573]]>
+    <![CDATA[S 4.42858 9.3143 10.2064 16 0.031115 -0.074276 -0.037989]]>
+    <![CDATA[S 2.02927 9.34525 5.87103 16 -0.081991 -0.130702 -0.08095]]>
+    <![CDATA[S 8.95639 7.55673 6.75549 16 -0.047053 -0.110747 0.114582]]>
+    <![CDATA[S 0.27796 2.04151 7.33882 16 0.034676 -0.039889 0.01886]]>
+    <![CDATA[S 5.03349 6.32196 4.16685 16 0.009864 0.007888 0.021172]]>
+    <![CDATA[S 4.1006 6.30029 11.69963 16 -0.047444 -0.01365 -0.027356]]>
+    <![CDATA[S 1.75287 4.02855 1.69197 16 0.039981 0.007569 0.085528]]>
+    <![CDATA[S 1.83489 5.66959 9.32088 16 0.052674 0.083466 -0.108626]]>
+    <![CDATA[S 7.96148 3.92562 1.04767 16 0.002355 -0.087252 0.063571]]>
+    <![CDATA[S 7.88325 5.94093 10.13148 16 0.047918 -0.009553 0.052849]]>
+    <![CDATA[S 0.81507 2.51342 11.18211 16 0.112555 0.052787 -0.044315]]>
+    <![CDATA[S 9.72304 6.72219 3.58709 16 0.022098 -0.066628 -0.073764]]>
+    <![CDATA[S 1.00801 2.18765 2.35818 16 -0.030547 -0.027248 0.013529]]>
+    <![CDATA[S 8.02021 0.41952 11.71439 16 -0.044032 0.061119 0.045121]]>
+    <![CDATA[S 8.54766 1.28392 7.62597 16 0.05774 -0.056045 0.07848]]>
+    <![CDATA[S 5.00435 1.73058 5.71226 16 -0.004066 -0.022335 0.033945]]>
+    <![CDATA[S 7.02938 7.3983 1.06529 16 0.047366 0.095283 0.108353]]>
+    <![CDATA[S 8.22793 4.08618 9.14006 16 -0.054772 0.028487 -0.039085]]>
+    <![CDATA[S 4.76687 1.9699 1.7145 16 0.002454 -0.022571 -0.013465]]>
+    <![CDATA[S 5.49336 2.20703 9.88444 16 0.041934 0.090362 -0.031287]]>
+    <![CDATA[S 5.50195 8.77473 8.50413 16 -0.023972 0.014589 0.07106]]>
+    <![CDATA[S 4.20965 0.06524 1.01459 16 -0.07942 0.056963 0.003013]]>
+    <![CDATA[S 2.52719 4.34326 5.08101 16 0.053114 0.103524 -0.031094]]>
+    <![CDATA[Cl 5.34331 5.12819 7.54085 17 -0.00708 -0.018349 0.00052]]>
+    <![CDATA[Cl 8.12441 3.59741 4.63874 17 0.045252 -0.012815 0.01089]]>
+    <![CDATA[Cl 0.69271 9.2331 9.42121 17 -0.065101 -0.072192 0.053647]]>
+    <![CDATA[Cl 7.59023 0.151 3.50581 17 0.04611 -0.07644 0.021677]]>
+    <![CDATA[Cl 0.67699 7.80643 0.3686 17 -0.000519 0.015653 0.005948]]>
+    <![CDATA[65]]>
+    <![CDATA[energy=-245.59710569 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 5.97322 9.46551 0.17519 3 1.867997 -0.522476 -0.869589]]>
+    <![CDATA[Li 7.2295 5.89605 7.95673 3 1.639215 0.449294 -0.397476]]>
+    <![CDATA[Li 2.62161 2.47827 0.25895 3 0.574612 -0.711228 -0.113739]]>
+    <![CDATA[Li 1.94166 7.72681 2.60718 3 -0.980987 -0.013267 -0.48151]]>
+    <![CDATA[Li 3.11204 2.24918 3.20613 3 -0.186145 0.168395 1.082077]]>
+    <![CDATA[Li 1.86271 9.93736 8.30404 3 2.7998 2.06954 -2.147179]]>
+    <![CDATA[Li 7.39753 5.74697 2.84814 3 0.337258 -0.116713 -0.153479]]>
+    <![CDATA[Li 5.59187 0.85372 3.6374 3 -1.607323 0.171038 0.443413]]>
+    <![CDATA[Li 0.1569 9.37388 6.72289 3 -2.03345 0.604652 0.540787]]>
+    <![CDATA[Li 9.23805 3.6256 3.00316 3 0.942978 0.739654 -0.697587]]>
+    <![CDATA[Li 3.63654 10.18553 6.75799 3 4.381735 1.588362 0.934061]]>
+    <![CDATA[Li 9.33201 5.96069 0.66217 3 -0.328396 0.087766 -0.177411]]>
+    <![CDATA[Li 0.42374 4.03198 8.82912 3 -0.889994 -1.314428 -0.034952]]>
+    <![CDATA[Li 3.36838 4.77269 7.15254 3 -0.953296 0.356819 0.20516]]>
+    <![CDATA[Li 6.44947 2.68883 12.1543 3 0.56137 -0.484348 0.117757]]>
+    <![CDATA[Li 9.33565 1.36548 9.71431 3 -0.296289 -0.14183 0.107937]]>
+    <![CDATA[Li 6.40065 5.60696 0.12612 3 -0.001209 -1.358732 -1.025664]]>
+    <![CDATA[Li 5.26272 4.07105 5.24873 3 0.137237 0.01164 -0.211674]]>
+    <![CDATA[Li 4.93631 7.17747 1.61951 3 -1.251944 -0.619673 -0.061329]]>
+    <![CDATA[Li 1.99141 8.18486 10.61683 3 0.538752 -0.71248 0.795726]]>
+    <![CDATA[Li 7.65933 1.87666 2.83205 3 0.179853 3.489162 -1.662945]]>
+    <![CDATA[Li 9.89713 6.71676 9.1844 3 -0.669171 0.425132 -0.093918]]>
+    <![CDATA[Li 0.99879 3.79183 5.74372 3 -4.014624 -0.868811 1.642007]]>
+    <![CDATA[Li 9.85806 2.17265 0.03161 3 -5.968617 -1.59726 5.478907]]>
+    <![CDATA[Li 7.37952 1.23984 5.95159 3 -2.118824 0.100962 -3.246163]]>
+    <![CDATA[Li 5.53447 6.45825 9.77599 3 -0.153959 0.168754 -0.151017]]>
+    <![CDATA[Li 6.0899 8.27202 3.13445 3 0.700223 0.355147 0.342276]]>
+    <![CDATA[Li 6.44003 0.73351 9.98288 3 4.523836 -6.171034 0.105948]]>
+    <![CDATA[Li 6.06632 2.68521 7.7078 3 0.196219 0.132714 0.013049]]>
+    <![CDATA[Li 8.98729 9.2987 0.83016 3 -0.158938 -0.585262 -0.153048]]>
+    <![CDATA[P 2.93698 6.26508 4.19867 15 0.101994 -1.14982 -0.93142]]>
+    <![CDATA[P 2.92341 4.82932 10.77683 15 0.304328 -0.655939 1.469109]]>
+    <![CDATA[P 0.97136 4.33836 12.11227 15 -0.70099 1.033678 -2.609587]]>
+    <![CDATA[P 1.90953 7.25296 5.86634 15 2.792673 0.943535 2.595005]]>
+    <![CDATA[P 0.1026 6.23842 5.71072 15 -1.775483 0.342619 -1.195964]]>
+    <![CDATA[S 3.80512 1.02759 9.91925 16 -1.361179 0.710101 0.052239]]>
+    <![CDATA[S 3.89104 9.09412 2.72863 16 0.318731 0.391326 -0.100903]]>
+    <![CDATA[S 4.4327 9.39161 10.16955 16 0.415552 -1.312211 -0.504147]]>
+    <![CDATA[S 2.06694 9.50859 5.9748 16 -2.197795 -2.578931 -2.805604]]>
+    <![CDATA[S 9.07106 7.58807 6.62115 16 -0.621242 -0.827923 1.493998]]>
+    <![CDATA[S 0.29891 2.01299 7.39067 16 0.113493 -0.142891 -0.069215]]>
+    <![CDATA[S 5.03886 6.32092 4.15616 16 0.305878 0.111057 0.262035]]>
+    <![CDATA[S 4.11598 6.36734 11.69476 16 -0.550072 -0.189574 -0.176718]]>
+    <![CDATA[S 1.69113 4.05672 1.65085 16 0.678611 0.029292 1.808513]]>
+    <![CDATA[S 1.74735 5.64191 9.3061 16 0.764392 1.321449 -0.817697]]>
+    <![CDATA[S 7.93152 4.03858 1.07341 16 0.091868 -0.547283 0.593371]]>
+    <![CDATA[S 7.78406 5.85132 10.1603 16 0.546812 -0.133055 0.471329]]>
+    <![CDATA[S 0.77009 2.4617 11.14083 16 5.654749 1.657437 -4.906645]]>
+    <![CDATA[S 9.7732 6.75342 3.75932 16 -0.122383 -0.692782 -1.284236]]>
+    <![CDATA[S 1.01267 2.1948 2.28745 16 -0.677659 -0.241757 0.010354]]>
+    <![CDATA[S 8.05567 0.47459 11.68666 16 -0.269126 0.476791 0.083976]]>
+    <![CDATA[S 8.54712 1.23572 7.44703 16 2.419414 -0.11756 2.832999]]>
+    <![CDATA[S 4.97899 1.79114 5.6162 16 -0.033702 -0.369092 0.739336]]>
+    <![CDATA[S 6.95012 7.41056 0.90681 16 1.031817 2.012918 1.425236]]>
+    <![CDATA[S 8.35846 3.97068 9.2946 16 -0.644465 0.663668 -0.346099]]>
+    <![CDATA[S 4.75463 2.02802 1.73975 16 0.509108 -0.334769 -0.924689]]>
+    <![CDATA[S 5.4621 2.17358 9.95924 16 -3.404111 6.631855 -0.43929]]>
+    <![CDATA[S 5.38435 8.86482 8.3315 16 -0.380793 0.023163 0.759996]]>
+    <![CDATA[S 4.25652 0.06917 1.06743 16 -1.444283 0.824335 0.497008]]>
+    <![CDATA[S 2.66937 4.15841 4.95831 16 3.618075 1.889625 -1.816282]]>
+    <![CDATA[Cl 5.3911 5.05321 7.62749 17 -0.544451 -0.385353 -0.153275]]>
+    <![CDATA[Cl 8.02644 3.56676 4.71411 17 -0.478483 -0.239051 0.405204]]>
+    <![CDATA[Cl 0.61837 9.25269 9.40289 17 -3.3956 -1.455124 2.313189]]>
+    <![CDATA[Cl 7.48818 0.15357 3.49843 17 0.981803 -3.78398 1.087056]]>
+    <![CDATA[Cl 0.68345 7.71392 0.46297 17 0.151319 0.400898 0.028101]]>
+    <![CDATA[65]]>
+    <![CDATA[energy=-247.20354222 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 5.99896 9.48757 0.20476 3 1.778571 -0.461076 -0.778998]]>
+    <![CDATA[Li 7.20569 5.9449 8.03148 3 1.48646 0.423696 -0.663028]]>
+    <![CDATA[Li 2.67317 2.61164 0.2028 3 0.644397 -0.794853 -0.218224]]>
+    <![CDATA[Li 2.0151 7.72174 2.59491 3 -1.14297 -0.060748 -0.529343]]>
+    <![CDATA[Li 3.10419 2.25833 3.08015 3 -0.411538 0.241239 1.362887]]>
+    <![CDATA[Li 1.94311 9.82762 8.25872 3 1.649134 1.0641 -0.972838]]>
+    <![CDATA[Li 7.38044 5.75862 2.88547 3 0.352385 -0.090378 -0.149365]]>
+    <![CDATA[Li 5.59322 0.92225 3.63631 3 -1.37187 0.120139 0.307619]]>
+    <![CDATA[Li 0.15646 9.33265 6.66076 3 -2.090015 0.76153 0.619742]]>
+    <![CDATA[Li 9.15895 3.51445 3.03266 3 1.344604 1.098075 -0.790008]]>
+    <![CDATA[Li 3.63825 0.08068 6.84371 3 3.251844 1.239553 0.30456]]>
+    <![CDATA[Li 9.38413 5.97011 0.80633 3 -0.327208 0.065651 -0.142532]]>
+    <![CDATA[Li 0.40269 4.03601 8.77898 3 -0.767943 -1.250753 0.054516]]>
+    <![CDATA[Li 3.40365 4.64539 7.11977 3 -0.790058 0.328171 0.218129]]>
+    <![CDATA[Li 6.44774 2.77598 12.1548 3 0.491668 -0.606692 0.031914]]>
+    <![CDATA[Li 9.42056 1.23125 9.6284 3 -0.255461 -0.116551 0.285393]]>
+    <![CDATA[Li 6.38289 5.58793 0.16257 3 0.023218 -1.131333 -0.956858]]>
+    <![CDATA[Li 5.33586 4.062 5.21809 3 0.145861 0.076666 -0.191092]]>
+    <![CDATA[Li 4.93039 7.2218 1.59169 3 -1.270687 -0.642428 -0.078986]]>
+    <![CDATA[Li 1.97388 8.24539 10.62467 3 0.550777 -0.771206 0.894769]]>
+    <![CDATA[Li 7.76305 1.88646 2.79916 3 -0.140983 2.208617 -1.334934]]>
+    <![CDATA[Li 9.88183 6.63048 9.20794 3 -0.734917 0.4922 -0.056979]]>
+    <![CDATA[Li 1.06007 3.74571 5.81497 3 -3.116711 -0.654658 1.232452]]>
+    <![CDATA[Li 9.75336 2.15907 0.10491 3 -3.126412 -0.749 2.374231]]>
+    <![CDATA[Li 7.28462 1.19339 5.93387 3 -1.419273 0.01393 -2.328926]]>
+    <![CDATA[Li 5.53115 6.46184 9.82369 3 -0.152749 0.13167 -0.206963]]>
+    <![CDATA[Li 6.03755 8.2678 3.14642 3 0.786241 0.378619 0.375152]]>
+    <![CDATA[Li 6.46182 0.64278 10.0942 3 2.434764 -3.248105 -0.051689]]>
+    <![CDATA[Li 6.04606 2.65872 7.70919 3 0.248189 0.160212 0.059716]]>
+    <![CDATA[Li 9.01215 9.37017 0.87396 3 -0.168297 -0.673993 -0.191421]]>
+    <![CDATA[P 2.94551 6.2586 4.1993 15 0.075202 -1.165021 -0.949047]]>
+    <![CDATA[P 2.9247 4.85331 10.75982 15 0.17804 -0.689785 1.522053]]>
+    <![CDATA[P 0.96433 4.32688 12.10817 15 -0.722111 1.015024 -2.77835]]>
+    <![CDATA[P 1.90649 7.26267 5.85109 15 2.963885 0.866064 2.669631]]>
+    <![CDATA[P 0.11751 6.2132 5.72655 15 -1.658684 0.408375 -1.177459]]>
+    <![CDATA[S 3.79228 1.02957 9.90549 16 -1.343841 0.788791 0.087387]]>
+    <![CDATA[S 3.87827 9.10346 2.74257 16 0.369702 0.500798 -0.080883]]>
+    <![CDATA[S 4.43757 9.39952 10.15528 16 0.381711 -1.256512 -0.536898]]>
+    <![CDATA[S 2.06038 9.52784 5.97597 16 -0.860262 -2.195552 -2.556562]]>
+    <![CDATA[S 9.09438 7.58828 6.60071 16 -0.888342 -0.990042 1.708676]]>
+    <![CDATA[S 0.30554 2.00445 7.40331 16 0.199862 -0.086237 -0.133869]]>
+    <![CDATA[S 5.04338 6.32173 4.15582 16 0.428889 0.141291 0.257716]]>
+    <![CDATA[S 4.11476 6.38294 11.69203 16 -0.591553 -0.17914 -0.125412]]>
+    <![CDATA[S 1.68112 4.06422 1.65699 16 0.56022 0.006549 1.737921]]>
+    <![CDATA[S 1.73207 5.64679 9.29482 16 0.842911 1.230729 -0.816147]]>
+    <![CDATA[S 7.92485 4.06248 1.08596 16 0.179903 -0.664296 0.7385]]>
+    <![CDATA[S 7.76372 5.82684 10.17275 16 0.616906 -0.140614 0.681435]]>
+    <![CDATA[S 0.80385 2.46183 11.09285 16 2.990866 1.043913 -1.783876]]>
+    <![CDATA[S 9.78474 6.75493 3.79113 16 -0.236912 -0.761876 -1.602901]]>
+    <![CDATA[S 1.00705 2.19424 2.26943 16 -0.89935 -0.295456 0.055086]]>
+    <![CDATA[S 8.06255 0.49289 11.68091 16 -0.125907 0.348839 0.378192]]>
+    <![CDATA[S 8.56835 1.22227 7.4247 16 1.774264 -0.143785 1.912784]]>
+    <![CDATA[S 4.97188 1.80351 5.59869 16 -0.137977 -0.326204 0.950736]]>
+    <![CDATA[S 6.93934 7.43217 0.87882 16 1.030561 1.839934 1.421603]]>
+    <![CDATA[S 8.386 3.94723 9.33141 16 -0.788801 0.77242 -0.347567]]>
+    <![CDATA[S 4.75734 2.03997 1.73684 16 0.782064 -0.310482 -1.164406]]>
+    <![CDATA[S 5.4264 2.22082 9.97326 16 -1.500039 3.705556 -0.583263]]>
+    <![CDATA[S 5.35063 8.88816 8.29396 16 -0.307002 -0.038898 0.795581]]>
+    <![CDATA[S 4.25518 0.07772 1.08545 16 -1.367154 0.72091 0.326966]]>
+    <![CDATA[S 2.73834 4.12805 4.90939 16 2.549991 1.754092 -1.473325]]>
+    <![CDATA[Cl 5.39895 5.03066 7.64847 17 -0.485665 -0.333291 -0.191552]]>
+    <![CDATA[Cl 7.99683 3.55704 4.7375 17 -0.564632 -0.204362 0.47258]]>
+    <![CDATA[Cl 0.57298 9.24812 9.41501 17 -2.382453 -0.633396 1.331734]]>
+    <![CDATA[Cl 7.46933 0.12441 3.50503 17 0.834147 -2.803013 0.761351]]>
+    <![CDATA[Cl 0.68652 7.6936 0.48758 17 0.202869 0.507724 0.022427]]>
+    <![CDATA[65]]>
+    <![CDATA[energy=-252.30833778 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 6.08898 9.46755 0.16833 3 1.025319 -0.145989 -0.41626]]>
+    <![CDATA[Li 7.28033 5.96891 8.00022 3 1.023793 0.222299 -0.646964]]>
+    <![CDATA[Li 2.70965 2.57881 0.18837 3 0.466148 -0.618188 -0.128181]]>
+    <![CDATA[Li 1.95975 7.71835 2.56727 3 -0.926071 -0.043001 -0.341662]]>
+    <![CDATA[Li 3.08432 2.27176 3.14273 3 -0.171222 0.210344 1.04013]]>
+    <![CDATA[Li 2.02512 9.87315 8.21276 3 0.486012 0.533921 -0.07611]]>
+    <![CDATA[Li 7.39762 5.75511 2.8801 3 0.26287 -0.032563 -0.114391]]>
+    <![CDATA[Li 5.52513 0.92976 3.65063 3 -0.772814 -0.165693 0.098505]]>
+    <![CDATA[Li 0.05336 9.37402 6.6888 3 -1.181912 0.920344 0.455235]]>
+    <![CDATA[Li 9.2252 3.56701 2.99696 3 1.147451 1.05893 -0.330019]]>
+    <![CDATA[Li 3.79895 0.14848 6.85862 3 1.705396 0.42285 -0.298276]]>
+    <![CDATA[Li 9.37003 5.97469 0.80738 3 -0.288224 0.092086 -0.176829]]>
+    <![CDATA[Li 0.36394 3.9734 8.78103 3 -0.371575 -0.767582 0.246]]>
+    <![CDATA[Li 3.36402 4.6559 7.12988 3 -0.651952 0.385613 0.240986]]>
+    <![CDATA[Li 6.47358 2.74774 12.15566 3 0.403528 -0.655598 -0.046489]]>
+    <![CDATA[Li 9.4135 1.21643 9.63907 3 -0.13185 -0.09699 0.336462]]>
+    <![CDATA[Li 6.38447 5.53323 0.11557 3 0.142373 -0.420474 -0.693511]]>
+    <![CDATA[Li 5.34822 4.06589 5.2064 3 0.116353 0.100427 -0.123501]]>
+    <![CDATA[Li 4.86637 7.19116 1.58611 3 -0.771479 -0.494396 -0.028408]]>
+    <![CDATA[Li 1.99997 8.2092 10.67069 3 0.307337 -0.589279 0.601568]]>
+    <![CDATA[Li 7.75741 1.99278 2.73097 3 -0.5084 0.866804 -0.723312]]>
+    <![CDATA[Li 9.84356 6.65126 9.2063 3 -0.481348 0.440544 -0.058228]]>
+    <![CDATA[Li 0.91415 3.7129 5.87456 3 -1.356951 -0.145302 0.201248]]>
+    <![CDATA[Li 9.59592 2.12383 0.22083 3 -1.15727 -0.126144 0.512843]]>
+    <![CDATA[Li 7.21452 1.19138 5.81925 3 -0.264934 0.029475 -1.131835]]>
+    <![CDATA[Li 5.52323 6.46863 9.81461 3 -0.095757 0.073547 -0.276202]]>
+    <![CDATA[Li 6.07511 8.28705 3.16575 3 0.601715 0.272029 0.208054]]>
+    <![CDATA[Li 6.57699 0.483 10.09184 3 0.620427 -0.948372 -0.588895]]>
+    <![CDATA[Li 6.05865 2.66591 7.71269 3 0.272701 0.171394 0.070828]]>
+    <![CDATA[Li 9.00452 9.33775 0.86669 3 -0.168895 -0.676177 -0.159788]]>
+    <![CDATA[P 2.94691 6.2446 4.18787 15 0.0447 -0.827415 -0.819939]]>
+    <![CDATA[P 2.9261 4.8466 10.77678 15 -0.152552 -0.5733 1.202392]]>
+    <![CDATA[P 0.95597 4.33788 12.07539 15 -0.336209 0.707801 -2.045732]]>
+    <![CDATA[P 1.94123 7.27274 5.88226 15 2.274379 0.376801 2.280262]]>
+    <![CDATA[P 0.09973 6.2172 5.71338 15 -0.969058 0.601045 -1.005051]]>
+    <![CDATA[S 3.77643 1.03866 9.90582 16 -0.92299 0.596653 0.157783]]>
+    <![CDATA[S 3.88161 9.10983 2.74262 16 0.269132 0.416116 -0.033559]]>
+    <![CDATA[S 4.44204 9.38612 10.14824 16 0.212173 -0.804868 -0.406429]]>
+    <![CDATA[S 2.05103 9.50449 5.9478 16 -0.259362 -1.510964 -1.621421]]>
+    <![CDATA[S 9.08498 7.57616 6.61953 16 -0.973292 -1.071442 1.577205]]>
+    <![CDATA[S 0.30862 2.00273 7.4026 16 0.294274 -0.141226 -0.10342]]>
+    <![CDATA[S 5.04878 6.32355 4.15866 16 0.417755 0.168003 0.167842]]>
+    <![CDATA[S 4.10783 6.38197 11.69046 16 -0.500578 -0.113377 -0.080333]]>
+    <![CDATA[S 1.68648 4.06468 1.67622 16 0.279283 -0.038315 0.971178]]>
+    <![CDATA[S 1.74077 5.6607 9.28454 16 0.691571 0.778987 -0.71371]]>
+    <![CDATA[S 7.92659 4.05592 1.09544 16 0.18714 -0.707649 0.669305]]>
+    <![CDATA[S 7.76947 5.8238 10.18161 16 0.484908 -0.056104 0.640607]]>
+    <![CDATA[S 0.83787 2.47344 11.07212 16 1.213797 0.627599 -0.077586]]>
+    <![CDATA[S 9.78267 6.74612 3.77431 16 -0.228115 -0.67477 -1.474034]]>
+    <![CDATA[S 0.9961 2.19078 2.26889 16 -0.821329 -0.251578 0.03929]]>
+    <![CDATA[S 8.06204 0.49803 11.68584 16 0.065855 0.258662 0.652577]]>
+    <![CDATA[S 8.58795 1.21929 7.44332 16 0.619763 -0.286228 0.798926]]>
+    <![CDATA[S 4.96958 1.80085 5.60882 16 -0.202585 -0.138828 0.892309]]>
+    <![CDATA[S 6.95004 7.45343 0.89362 16 0.675064 1.010447 1.251428]]>
+    <![CDATA[S 8.37814 3.95464 9.32961 16 -0.860514 0.640512 -0.346107]]>
+    <![CDATA[S 4.76605 2.0374 1.72365 16 0.488496 -0.16556 -0.81137]]>
+    <![CDATA[S 5.40884 2.26257 9.96768 16 -0.264012 1.227612 -0.394861]]>
+    <![CDATA[S 5.34521 8.8891 8.30076 16 -0.132096 -0.080442 0.665979]]>
+    <![CDATA[S 4.24023 0.08594 1.08944 16 -0.800024 0.351823 -0.087964]]>
+    <![CDATA[S 2.76871 4.14573 4.89122 16 0.771457 1.215417 -0.475005]]>
+    <![CDATA[Cl 5.39485 5.02604 7.64788 17 -0.210755 -0.146137 -0.138548]]>
+    <![CDATA[Cl 7.98941 3.5542 4.74321 17 -0.315959 -0.195503 0.100539]]>
+    <![CDATA[Cl 0.54721 9.24162 9.42861 17 -1.085974 -0.305506 0.602608]]>
+    <![CDATA[Cl 7.47659 0.0958 3.51265 17 0.583244 -1.242404 0.310659]]>
+    <![CDATA[Cl 0.68882 7.69771 0.48938 17 0.162683 0.473849 0.009621]]>
+    <![CDATA[65]]>
+    <![CDATA[energy=-255.35106135 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 6.18295 9.45376 0.13007 3 0.447845 0.041427 -0.184269]]>
+    <![CDATA[Li 7.37256 5.9895 7.94386 3 0.607423 0.032067 -0.502227]]>
+    <![CDATA[Li 2.75221 2.52463 0.17635 3 0.286847 -0.448642 -0.031019]]>
+    <![CDATA[Li 1.87761 7.71449 2.5371 3 -0.660135 -0.023274 -0.10185]]>
+    <![CDATA[Li 3.06812 2.29065 3.2345 3 -0.02455 0.155232 0.687764]]>
+    <![CDATA[Li 2.07712 9.92326 8.19813 3 0.05536 0.321795 0.103099]]>
+    <![CDATA[Li 7.42089 5.75216 2.87016 3 0.154964 0.003548 -0.086555]]>
+    <![CDATA[Li 5.45343 0.91618 3.66013 3 -0.403772 -0.349156 -0.021721]]>
+    <![CDATA[Li 10.19446 9.45389 6.72901 3 -0.589718 0.782749 0.287345]]>
+    <![CDATA[Li 9.32648 3.65956 2.96638 3 0.817811 0.846162 -0.032664]]>
+    <![CDATA[Li 3.95809 0.19026 6.8387 3 0.763885 -0.140545 -0.309259]]>
+    <![CDATA[Li 9.34444 5.98298 0.79286 3 -0.262757 0.096859 -0.22538]]>
+    <![CDATA[Li 0.32985 3.90378 8.80234 3 -0.056679 -0.368156 0.367574]]>
+    <![CDATA[Li 3.30628 4.68939 7.15134 3 -0.455975 0.435388 0.25518]]>
+    <![CDATA[Li 6.51026 2.69002 12.15176 3 0.331725 -0.629659 -0.087357]]>
+    <![CDATA[Li 9.40244 1.20594 9.66801 3 -0.039821 -0.083974 0.335096]]>
+    <![CDATA[Li 6.39687 5.49284 0.05307 3 0.214456 0.001935 -0.471329]]>
+    <![CDATA[Li 5.35964 4.07465 5.19497 3 0.087501 0.099404 -0.053608]]>
+    <![CDATA[Li 4.7962 7.14741 1.58377 3 -0.351148 -0.325635 0.062169]]>
+    <![CDATA[Li 2.02788 8.15654 10.7251 3 0.128839 -0.433467 0.34044]]>
+    <![CDATA[Li 7.71585 2.07971 2.66337 3 -0.541085 0.363181 -0.329361]]>
+    <![CDATA[Li 9.80041 6.69005 9.20117 3 -0.213657 0.387363 -0.066867]]>
+    <![CDATA[Li 0.78199 3.69739 5.89894 3 -0.66451 0.132379 -0.224337]]>
+    <![CDATA[Li 9.47819 2.10886 0.28218 3 -0.385926 0.138571 0.020678]]>
+    <![CDATA[Li 7.18408 1.19377 5.7112 3 0.259986 0.069959 -0.544285]]>
+    <![CDATA[Li 5.51454 6.47529 9.79021 3 -0.046792 0.01906 -0.323851]]>
+    <![CDATA[Li 6.12829 8.31123 3.18455 3 0.381404 0.143456 0.051054]]>
+    <![CDATA[Li 6.64648 0.37868 10.04362 3 0.114333 -0.328647 -0.701278]]>
+    <![CDATA[Li 6.08294 2.68118 7.71877 3 0.274214 0.182498 0.049625]]>
+    <![CDATA[Li 8.98948 9.27805 0.85269 3 -0.170132 -0.60426 -0.135674]]>
+    <![CDATA[P 2.94806 6.22792 4.17131 15 0.067262 -0.396196 -0.603937]]>
+    <![CDATA[P 2.9231 4.83523 10.8009 15 -0.377484 -0.434137 0.799382]]>
+    <![CDATA[P 0.94896 4.35248 12.03383 15 -0.035292 0.527441 -1.246985]]>
+    <![CDATA[P 1.98741 7.28047 5.92819 15 1.511328 -0.069717 1.673042]]>
+    <![CDATA[P 0.08015 6.22895 5.69322 15 -0.35165 0.645945 -0.744328]]>
+    <![CDATA[S 3.75821 1.05047 9.9088 16 -0.481772 0.413082 0.225718]]>
+    <![CDATA[S 3.88675 9.11814 2.74208 16 0.169197 0.323669 -0.011785]]>
+    <![CDATA[S 4.44616 9.37039 10.14024 16 0.005266 -0.37623 -0.203088]]>
+    <![CDATA[S 2.04467 9.47428 5.91524 16 -0.15777 -1.106812 -0.976927]]>
+    <![CDATA[S 9.06648 7.55544 6.65028 16 -0.836552 -0.924357 1.347328]]>
+    <![CDATA[S 0.3144 1.99966 7.40078 16 0.317283 -0.244247 -0.053335]]>
+    <![CDATA[S 5.05699 6.3269 4.1619 16 0.354339 0.190156 0.05923]]>
+    <![CDATA[S 4.09795 6.37995 11.68881 16 -0.403212 -0.044697 -0.05064]]>
+    <![CDATA[S 1.69184 4.06395 1.6955 16 0.021759 -0.100617 0.314599]]>
+    <![CDATA[S 1.75437 5.67617 9.27048 16 0.587548 0.384622 -0.533349]]>
+    <![CDATA[S 7.93011 4.04247 1.10864 16 0.14981 -0.625211 0.518755]]>
+    <![CDATA[S 7.77871 5.82249 10.19418 16 0.327679 0.058342 0.498717]]>
+    <![CDATA[S 0.86484 2.48625 11.06696 16 0.588748 0.394352 0.278006]]>
+    <![CDATA[S 9.77839 6.73292 3.74577 16 -0.183587 -0.535106 -1.243343]]>
+    <![CDATA[S 0.98012 2.18591 2.26939 16 -0.61062 -0.163799 0.007864]]>
+    <![CDATA[S 8.06296 0.50345 11.69801 16 0.042337 0.198674 0.603192]]>
+    <![CDATA[S 8.60169 1.21362 7.46011 16 0.087436 -0.332 0.31616]]>
+    <![CDATA[S 4.96583 1.79855 5.62583 16 -0.109127 0.139974 0.650219]]>
+    <![CDATA[S 6.96348 7.47396 0.91809 16 0.448335 0.401988 1.0976]]>
+    <![CDATA[S 8.36152 3.96689 9.32319 16 -0.874708 0.464201 -0.344856]]>
+    <![CDATA[S 4.7758 2.03426 1.70765 16 0.261602 -0.046728 -0.472327]]>
+    <![CDATA[S 5.40078 2.291 9.95978 16 -0.070726 0.38602 -0.323633]]>
+    <![CDATA[S 5.34229 8.88776 8.31327 16 0.057011 -0.13024 0.463175]]>
+    <![CDATA[S 4.22408 0.09316 1.08812 16 -0.42738 0.098605 -0.350532]]>
+    <![CDATA[S 2.78693 4.1697 4.88019 16 0.037673 0.843258 -0.004518]]>
+    <![CDATA[Cl 5.39102 5.02311 7.64561 17 -0.045879 0.000783 -0.111511]]>
+    <![CDATA[Cl 7.98338 3.55062 4.7454 17 -0.115328 -0.167789 -0.158471]]>
+    <![CDATA[Cl 0.526 9.2356 9.44056 17 -0.473272 -0.21993 0.386284]]>
+    <![CDATA[Cl 7.48681 0.07183 3.51876 17 0.36606 -0.475347 0.116445]]>
+    <![CDATA[Cl 0.69171 7.70589 0.48976 17 0.094938 0.414139 -0.042871]]>
+    <![CDATA[65]]>
+    <![CDATA[energy=-257.75539668 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 6.29146 9.45002 0.08508 3 -0.09158 0.07258 -0.006928]]>
+    <![CDATA[Li 7.49965 6.00372 7.8505 3 0.119022 -0.243811 -0.207615]]>
+    <![CDATA[Li 2.8119 2.43759 0.16577 3 0.088945 -0.283843 0.049672]]>
+    <![CDATA[Li 1.74913 7.70941 2.50911 3 -0.320089 -0.009691 0.223868]]>
+    <![CDATA[Li 3.05507 2.32022 3.37187 3 0.022391 0.044954 0.287835]]>
+    <![CDATA[Li 2.11466 9.99295 8.20025 3 -0.175533 0.205125 0.025121]]>
+    <![CDATA[Li 7.45286 5.75077 2.85361 3 0.004957 0.013869 -0.060787]]>
+    <![CDATA[Li 5.36152 0.86487 3.66375 3 -0.157668 -0.407509 -0.024586]]>
+    <![CDATA[Li 10.05795 9.59301 6.78749 3 -0.140384 0.249772 0.096372]]>
+    <![CDATA[Li 9.48499 3.81715 2.94346 3 0.368524 0.514013 0.070477]]>
+    <![CDATA[Li 4.14372 0.19356 6.79203 3 0.012416 -0.715003 -0.030452]]>
+    <![CDATA[Li 9.29658 5.99958 0.75556 3 -0.241215 0.066192 -0.297745]]>
+    <![CDATA[Li 0.3032 3.81823 8.86054 3 0.150136 -0.037399 0.397647]]>
+    <![CDATA[Li 3.21676 4.76332 7.1955 3 -0.197648 0.434802 0.226899]]>
+    <![CDATA[Li 6.57227 2.57881 12.1385 3 0.198435 -0.468882 -0.112181]]>
+    <![CDATA[Li 9.39136 1.18934 9.72612 3 0.042619 -0.071209 0.26163]]>
+    <![CDATA[Li 6.43085 5.46891 12.30886 3 0.232937 0.194284 -0.207824]]>
+    <![CDATA[Li 5.37698 4.09187 5.18211 3 0.045446 0.068553 0.029711]]>
+    <![CDATA[Li 4.7129 7.08211 1.59106 3 0.018807 -0.143927 0.179039]]>
+    <![CDATA[Li 2.06014 8.07202 10.79812 3 0.014969 -0.28514 0.080305]]>
+    <![CDATA[Li 7.62562 2.17618 2.58498 3 -0.400458 0.064964 0.084804]]>
+    <![CDATA[Li 9.74998 6.7608 9.18996 3 0.063756 0.319334 -0.057897]]>
+    <![CDATA[Li 0.62098 3.7046 5.88647 3 -0.322257 0.250526 -0.343827]]>
+    <![CDATA[Li 9.36246 2.1176 0.32273 3 0.164019 0.290926 -0.084573]]>
+    <![CDATA[Li 7.19695 1.20503 5.58056 3 0.394477 0.182294 -0.132316]]>
+    <![CDATA[Li 5.50369 6.48118 9.73564 3 -0.011622 -0.041303 -0.326931]]>
+    <![CDATA[Li 6.2056 8.34221 3.20138 3 0.117028 -0.023021 -0.08206]]>
+    <![CDATA[Li 6.70398 0.27609 9.9308 3 0.028359 -0.013915 -0.48984]]>
+    <![CDATA[Li 6.13115 2.71284 7.7281 3 0.242789 0.174696 0.003692]]>
+    <![CDATA[Li 8.95938 9.16902 0.82756 3 -0.162764 -0.408121 -0.117504]]>
+    <![CDATA[P 2.95087 6.20786 4.1452 15 0.163532 0.178683 -0.221677]]>
+    <![CDATA[P 2.91093 4.81659 10.8368 15 -0.377945 -0.231579 0.248796]]>
+    <![CDATA[P 0.94374 4.37603 11.97551 15 0.078375 0.44057 -0.298394]]>
+    <![CDATA[P 2.05594 7.28276 6.00066 15 0.58859 -0.401963 0.650288]]>
+    <![CDATA[P 0.0592 6.25366 5.66114 15 0.158702 0.489074 -0.291819]]>
+    <![CDATA[S 3.73497 1.06841 9.91678 16 -0.001501 0.206081 0.27881]]>
+    <![CDATA[S 3.89429 9.13176 2.74134 16 0.071578 0.229616 -0.039331]]>
+    <![CDATA[S 4.44827 9.35144 10.13056 16 -0.26682 0.073556 0.12374]]>
+    <![CDATA[S 2.03662 9.4267 5.87019 16 -0.097564 -0.714685 -0.326984]]>
+    <![CDATA[S 9.03369 7.51895 6.70428 16 -0.396478 -0.477601 0.857363]]>
+    <![CDATA[S 0.32632 1.99116 7.39822 16 0.264028 -0.297306 -0.035162]]>
+    <![CDATA[S 5.07129 6.33406 4.16519 16 0.239634 0.199612 -0.085842]]>
+    <![CDATA[S 4.08129 6.37763 11.68644 16 -0.282292 0.028445 -0.035938]]>
+    <![CDATA[S 1.69532 4.06066 1.71485 16 -0.212711 -0.171808 -0.254088]]>
+    <![CDATA[S 1.77831 5.69532 9.24814 16 0.477148 0.001631 -0.236532]]>
+    <![CDATA[S 7.93616 4.01808 1.13006 16 0.087142 -0.335448 0.239102]]>
+    <![CDATA[S 7.79291 5.82361 10.21476 16 0.172469 0.226168 0.251764]]>
+    <![CDATA[S 0.89662 2.50414 11.07097 16 0.195162 0.111402 0.256718]]>
+    <![CDATA[S 9.77103 6.71091 3.69571 16 -0.092524 -0.311548 -0.835031]]>
+    <![CDATA[S 0.95466 2.17882 2.26988 16 -0.262174 -0.022542 -0.015757]]>
+    <![CDATA[S 8.06427 0.51182 11.72072 16 -0.089874 0.072906 0.236298]]>
+    <![CDATA[S 8.61211 1.2016 7.47878 16 -0.228878 -0.188126 0.119171]]>
+    <![CDATA[S 4.96137 1.80171 5.65256 16 0.188459 0.524996 0.14308]]>
+    <![CDATA[S 6.9836 7.49661 0.9621 16 0.301553 -0.079105 0.85894]]>
+    <![CDATA[S 8.32812 3.9864 9.30997 16 -0.761958 0.225805 -0.347287]]>
+    <![CDATA[S 4.78866 2.03114 1.6857 16 0.128029 0.0131 -0.152724]]>
+    <![CDATA[S 5.39381 2.31807 9.94634 16 -0.085954 -0.128405 -0.262134]]>
+    <![CDATA[S 5.3425 8.88327 8.33272 16 0.291943 -0.207137 0.142573]]>
+    <![CDATA[S 4.2031 0.10002 1.07781 16 -0.148354 -0.06446 -0.466774]]>
+    <![CDATA[S 2.79861 4.20627 4.87389 16 -0.37285 0.423926 0.359809]]>
+    <![CDATA[Cl 5.38757 5.02156 7.64147 17 0.01946 0.143163 -0.110087]]>
+    <![CDATA[Cl 7.97714 3.54447 4.74278 17 0.05894 -0.104957 -0.288493]]>
+    <![CDATA[Cl 0.50198 9.22661 9.45719 17 -0.083418 -0.173967 0.28807]]>
+    <![CDATA[Cl 7.50176 0.04617 3.52515 17 0.202148 0.014413 -0.020147]]>
+    <![CDATA[Cl 0.69555 7.72078 0.48869 17 -0.025056 0.314128 -0.167643]]>
+    <![CDATA[65]]>
+    <![CDATA[energy=-258.42960184 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 6.42375 9.45415 0.02219 3 -0.744219 -0.180528 0.184232]]>
+    <![CDATA[Li 7.69004 5.97559 7.69004 3 -0.818116 -1.069618 0.4078]]>
+    <![CDATA[Li 2.90873 2.26942 0.15891 3 -0.182572 -0.090285 0.04967]]>
+    <![CDATA[Li 1.51804 7.7007 2.50982 3 0.124393 0.010522 0.594647]]>
+    <![CDATA[Li 3.04061 2.36701 3.61011 3 0.026827 -0.215899 -0.15467]]>
+    <![CDATA[Li 2.13603 10.12405 8.20697 3 -0.368297 0.100722 -0.146582]]>
+    <![CDATA[Li 7.49708 5.75059 2.82032 3 -0.202138 -0.037301 -0.037994]]>
+    <![CDATA[Li 5.2088 0.72728 3.66626 3 0.128752 -0.142638 0.138021]]>
+    <![CDATA[Li 9.85066 9.8189 6.88229 3 0.774303 -1.163376 -0.332464]]>
+    <![CDATA[Li 9.76607 4.1215 2.92134 3 -0.157474 0.042192 -0.051832]]>
+    <![CDATA[Li 4.40496 0.07976 6.71958 3 -0.411545 -0.854538 0.040068]]>
+    <![CDATA[Li 9.18969 6.03291 0.65292 3 -0.182773 -0.05208 -0.381759]]>
+    <![CDATA[Li 0.28986 3.69343 9.00616 3 0.140568 0.239419 0.155556]]>
+    <![CDATA[Li 3.06078 4.93714 7.29293 3 0.257718 0.184353 -0.028888]]>
+    <![CDATA[Li 6.68828 2.34943 12.1008 3 -0.296783 0.148492 -0.130476]]>
+    <![CDATA[Li 9.38363 1.15422 9.85032 3 0.144214 -0.059843 0.082715]]>
+    <![CDATA[Li 6.51494 5.46693 12.14629 3 0.009604 0.135366 0.338556]]>
+    <![CDATA[Li 5.40831 4.12698 5.16973 3 -0.030525 0.000317 0.134129]]>
+    <![CDATA[Li 4.60061 6.96759 1.63143 3 0.296345 0.053633 0.259985]]>
+    <![CDATA[Li 2.10815 7.90685 10.91225 3 -0.012992 -0.093835 -0.210705]]>
+    <![CDATA[Li 7.43173 2.31709 2.49408 3 -0.278964 -0.442822 0.67761]]>
+    <![CDATA[Li 9.69112 6.91262 9.16562 3 0.306869 0.192155 0.041506]]>
+    <![CDATA[Li 0.34294 3.75444 5.81385 3 -0.139211 0.090888 -0.11611]]>
+    <![CDATA[Li 9.23175 2.17736 0.36544 3 0.727975 0.219713 -0.002712]]>
+    <![CDATA[Li 7.27854 1.25307 5.37953 3 0.147949 0.392767 0.383095]]>
+    <![CDATA[Li 5.48657 6.48227 9.60597 3 0.011743 -0.094282 -0.20044]]>
+    <![CDATA[Li 6.33134 8.38 3.21133 3 -0.231506 -0.268312 -0.139146]]>
+    <![CDATA[Li 6.78841 0.13292 9.69355 3 0.085225 0.277348 -0.013807]]>
+    <![CDATA[Li 6.23815 2.78578 7.74145 3 0.116918 0.100781 -0.053639]]>
+    <![CDATA[Li 8.89169 8.95217 0.77304 3 0.017455 0.133058 -0.093352]]>
+    <![CDATA[P 2.96141 6.18759 4.10137 15 0.384705 0.919008 0.459261]]>
+    <![CDATA[P 2.88108 4.7823 10.89511 15 0.258753 0.119185 -0.624996]]>
+    <![CDATA[P 0.93831 4.4256 11.88442 15 -0.318646 0.349525 0.975503]]>
+    <![CDATA[P 2.17245 7.27118 6.1238 15 -0.628643 -0.37766 -1.142824]]>
+    <![CDATA[P 0.03591 6.30578 5.6065 15 0.431285 -0.041795 0.500012]]>
+    <![CDATA[S 3.70309 1.10076 9.93806 16 0.555547 -0.046841 0.255349]]>
+    <![CDATA[S 3.90723 9.15896 2.73853 16 -0.091817 0.038657 -0.201545]]>
+    <![CDATA[S 4.44112 9.32815 10.12218 16 -0.558128 0.542627 0.56181]]>
+    <![CDATA[S 2.02248 9.33465 5.79625 16 0.171351 -0.203203 0.465264]]>
+    <![CDATA[S 8.97514 7.45224 6.80886 16 0.686358 0.643858 -0.440494]]>
+    <![CDATA[S 0.35219 1.96883 7.39324 16 0.01998 -0.145857 -0.061311]]>
+    <![CDATA[S 5.09988 6.35135 4.16636 16 0.079866 0.181124 -0.281557]]>
+    <![CDATA[S 4.04792 6.37548 11.68193 16 -0.081578 0.085434 0.023596]]>
+    <![CDATA[S 1.69238 4.04972 1.73216 16 -0.325587 -0.23256 -0.748573]]>
+    <![CDATA[S 1.82876 5.72179 9.20926 16 0.175992 -0.348573 0.403805]]>
+    <![CDATA[S 7.94783 3.97329 1.16778 16 0.047472 0.525438 -0.34462]]>
+    <![CDATA[S 7.81925 5.83384 10.25205 16 0.146462 0.474185 -0.238063]]>
+    <![CDATA[S 0.94768 2.53263 11.08591 16 -0.162001 -0.300677 0.095034]]>
+    <![CDATA[S 9.75752 6.66935 3.59641 16 0.027489 0.11538 -0.0066]]>
+    <![CDATA[S 0.91001 2.16849 2.27 16 0.198451 0.241174 -0.029979]]>
+    <![CDATA[S 8.06365 0.52553 11.76041 16 0.164065 -0.317572 -0.342155]]>
+    <![CDATA[S 8.6171 1.18 7.50981 16 -0.86323 0.847072 0.325519]]>
+    <![CDATA[S 4.96197 1.82492 5.69477 16 0.390319 0.536694 -0.371305]]>
+    <![CDATA[S 7.02248 7.52486 1.0542 16 0.080978 -0.553808 0.31231]]>
+    <![CDATA[S 8.25431 4.02158 9.2788 16 -0.316916 -0.085049 -0.298349]]>
+    <![CDATA[S 4.81149 2.02698 1.6496 16 0.124079 -0.068949 0.113708]]>
+    <![CDATA[S 5.38093 2.35062 9.91812 16 -0.165175 -0.535561 -0.14522]]>
+    <![CDATA[S 5.3538 8.86903 8.36462 16 0.534213 -0.406049 -0.273195]]>
+    <![CDATA[S 4.16871 0.1073 1.04666 16 0.155856 -0.127358 -0.32477]]>
+    <![CDATA[S 2.80086 4.27218 4.87889 16 -0.654045 -0.138488 0.751799]]>
+    <![CDATA[Cl 5.38319 5.02437 7.63196 17 -0.043216 0.315446 -0.15054]]>
+    <![CDATA[Cl 7.97052 3.53261 4.7298 17 0.212912 0.037047 -0.215614]]>
+    <![CDATA[Cl 0.46588 9.20849 9.48976 17 0.189772 -0.061657 0.169739]]>
+    <![CDATA[Cl 7.5294 0.011 3.53315 17 0.126738 0.32113 -0.194772]]>
+    <![CDATA[Cl 0.69984 7.7518 0.48131 17 -0.205303 0.142592 -0.367968]]>
+    <![CDATA[65]]>
+    <![CDATA[energy=-260.14153815 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 6.32718 9.2175 12.3324 3 -0.341171 0.439509 -0.260922]]>
+    <![CDATA[Li 7.55371 5.80859 7.56176 3 0.114497 -0.07534 0.0511]]>
+    <![CDATA[Li 2.43613 1.79395 0.4079 3 0.155821 -0.106684 0.105283]]>
+    <![CDATA[Li 1.51402 7.58546 2.55585 3 -0.062714 0.097116 -0.049654]]>
+    <![CDATA[Li 3.0786 2.18802 3.96892 3 -0.114153 0.071946 -0.012799]]>
+    <![CDATA[Li 2.00838 0.47361 8.17639 3 -0.059348 0.012929 -0.039959]]>
+    <![CDATA[Li 7.52393 5.7056 2.65965 3 0.070575 -0.107499 0.027717]]>
+    <![CDATA[Li 5.2669 0.67496 3.71759 3 0.210343 -0.220126 -0.025208]]>
+    <![CDATA[Li 10.0563 9.60347 7.12854 3 -0.050639 0.084395 -0.020957]]>
+    <![CDATA[Li 9.6828 4.18207 2.77955 3 0.061742 -0.025697 -0.052437]]>
+    <![CDATA[Li 4.38858 9.8782 6.51579 3 -0.0253 -0.075187 0.097788]]>
+    <![CDATA[Li 9.09857 5.98297 0.0688 3 -0.10469 -0.147576 -0.060402]]>
+    <![CDATA[Li 0.24406 3.75455 9.0493 3 0.426497 0.048911 -0.049301]]>
+    <![CDATA[Li 3.0446 5.36527 7.37206 3 0.163165 0.031708 -0.270438]]>
+    <![CDATA[Li 6.43961 2.29929 12.1776 3 0.187062 -0.17346 0.064109]]>
+    <![CDATA[Li 8.83181 1.90198 10.1711 3 0.273253 0.311813 -0.175802]]>
+    <![CDATA[Li 6.43348 5.49882 12.1834 3 0.170007 -0.16246 -0.14215]]>
+    <![CDATA[Li 4.86513 4.13125 5.33418 3 0.221773 0.001024 0.047315]]>
+    <![CDATA[Li 4.81063 6.82196 1.7721 3 -0.240645 0.130746 -0.065374]]>
+    <![CDATA[Li 2.1336 7.74123 10.7145 3 0.098472 0.102548 -0.010486]]>
+    <![CDATA[Li 7.20472 2.42745 2.69393 3 0.051092 -0.08449 0.019063]]>
+    <![CDATA[Li 9.89281 7.15467 9.05013 3 -0.120152 -0.065283 -0.033805]]>
+    <![CDATA[Li 0.12542 3.81858 5.67762 3 -0.154255 -0.021286 0.112227]]>
+    <![CDATA[Li 9.33705 2.06087 0.52159 3 0.126408 -0.153113 0.035755]]>
+    <![CDATA[Li 7.39809 1.41472 5.52358 3 0.034631 0.026458 -0.134391]]>
+    <![CDATA[Li 5.54549 6.47448 9.56021 3 -0.037924 0.005505 -0.032978]]>
+    <![CDATA[Li 6.41481 8.37182 3.11207 3 0.037025 0.203861 0.1448]]>
+    <![CDATA[Li 7.1474 0.23199 9.54582 3 -0.282646 -0.284317 -0.085497]]>
+    <![CDATA[Li 6.17445 2.83953 7.6494 3 0.015346 -0.033932 0.231901]]>
+    <![CDATA[Li 8.93926 8.90765 0.5364 3 -0.054411 0.032884 0.093602]]>
+    <![CDATA[P 2.9419 6.2343 4.16685 15 -0.214051 0.321739 -0.107847]]>
+    <![CDATA[P 2.9183 4.75917 10.9178 15 -0.180714 -0.570715 -0.245997]]>
+    <![CDATA[P 0.97395 4.43081 12.064 15 -0.132124 -0.291938 -0.398134]]>
+    <![CDATA[P 2.02913 7.28414 6.03047 15 -0.025561 -0.996647 0.16613]]>
+    <![CDATA[P 10.167 6.36189 5.60461 15 0.464787 -0.092626 0.127665]]>
+    <![CDATA[S 3.78968 1.06525 9.96337 16 0.380133 -0.160165 0.116068]]>
+    <![CDATA[S 3.9447 9.08532 2.68914 16 0.102939 0.059486 -0.260232]]>
+    <![CDATA[S 4.44071 9.3288 10.2224 16 0.135655 0.001408 -0.413708]]>
+    <![CDATA[S 2.02954 9.31338 5.90161 16 0.045967 0.801832 -0.177547]]>
+    <![CDATA[S 8.8808 7.55293 6.75066 16 0.114712 0.145948 0.042156]]>
+    <![CDATA[S 0.26877 2.02345 7.32072 16 0.264457 0.193129 -0.031865]]>
+    <![CDATA[S 5.06746 6.31832 4.16037 16 0.018328 -0.088322 0.144701]]>
+    <![CDATA[S 4.07932 6.30787 11.7135 16 0.190081 0.368852 0.190575]]>
+    <![CDATA[S 1.795 4.00367 1.69376 16 -0.034311 -0.027026 0.027684]]>
+    <![CDATA[S 1.85407 5.6888 9.27695 16 -0.235025 -0.072406 0.446479]]>
+    <![CDATA[S 7.95374 3.87365 1.01516 16 -0.207173 0.517276 0.14586]]>
+    <![CDATA[S 7.89145 5.87736 10.1054 16 -0.070903 0.868326 0.493913]]>
+    <![CDATA[S 0.8076 2.50425 11.1662 16 -0.040198 0.515304 0.119293]]>
+    <![CDATA[S 9.72683 6.70217 3.5851 16 -0.143404 0.002518 -0.317948]]>
+    <![CDATA[S 0.95759 2.19215 2.34234 16 0.098065 0.059251 0.116559]]>
+    <![CDATA[S 8.03185 0.44917 11.7456 16 -0.199417 -0.145957 0.050786]]>
+    <![CDATA[S 8.56384 1.27158 7.59564 16 -0.225518 -0.166855 0.259305]]>
+    <![CDATA[S 4.98203 1.77147 5.72105 16 -0.049772 -0.115554 0.003274]]>
+    <![CDATA[S 7.04412 7.40509 1.07983 16 0.280752 -0.227368 0.095885]]>
+    <![CDATA[S 8.22169 4.09724 9.11658 16 -0.15148 -0.705434 -0.352825]]>
+    <![CDATA[S 4.72614 1.93155 1.72646 16 0.102685 0.585772 0.112257]]>
+    <![CDATA[S 5.4982 2.23786 9.9141 16 -0.160531 -0.012879 -0.331937]]>
+    <![CDATA[S 5.56274 8.75437 8.51702 16 -0.214121 0.299207 0.369275]]>
+    <![CDATA[S 4.21521 0.07628 0.99743 16 -0.153657 -0.64001 0.090875]]>
+    <![CDATA[S 2.50471 4.38202 5.08956 16 0.009611 -0.26327 0.057249]]>
+    <![CDATA[Cl 5.35995 5.1109 7.53102 17 -0.249342 0.058754 -0.014467]]>
+    <![CDATA[Cl 8.13246 3.55642 4.64034 17 0.054921 0.106566 -0.025911]]>
+    <![CDATA[Cl 0.75365 9.22762 9.40305 17 -0.115552 -0.037466 0.062547]]>
+    <![CDATA[Cl 7.62638 0.19085 3.5298 17 -0.241055 -0.112724 -0.066666]]>
+    <![CDATA[Cl 0.69697 7.78962 0.35343 17 0.011154 -0.042909 -0.00155]]>
+    <![CDATA[65]]>
+    <![CDATA[energy=-258.81553508 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 6.42739 9.17208 0.05863 3 -0.589469 0.972185 -0.564229]]>
+    <![CDATA[Li 7.50315 5.83352 7.55695 3 0.225215 -0.128001 0.099021]]>
+    <![CDATA[Li 2.35693 1.78795 0.35808 3 0.312657 -0.201693 0.229834]]>
+    <![CDATA[Li 1.57855 7.43732 2.54173 3 -0.17063 0.192128 -0.121697]]>
+    <![CDATA[Li 3.0599 2.12523 3.99959 3 -0.216002 0.126819 -0.026686]]>
+    <![CDATA[Li 2.05285 0.4969 8.18736 3 -0.145891 0.017138 -0.090558]]>
+    <![CDATA[Li 7.53066 5.73282 2.64896 3 0.134303 -0.189676 0.073898]]>
+    <![CDATA[Li 5.23923 0.74384 3.72601 3 0.351172 -0.4182 -0.040868]]>
+    <![CDATA[Li 10.0832 9.55873 7.17748 3 -0.124894 0.144126 -0.06742]]>
+    <![CDATA[Li 9.61863 4.12483 2.80865 3 0.073881 -0.016594 -0.094765]]>
+    <![CDATA[Li 4.42771 9.91079 6.49964 3 -0.05209 -0.166469 0.163733]]>
+    <![CDATA[Li 9.14179 6.03111 0.09915 3 -0.205641 -0.285248 -0.098307]]>
+    <![CDATA[Li 0.14075 3.72956 9.06603 3 0.934319 0.004848 -0.116597]]>
+    <![CDATA[Li 3.03931 5.36126 7.4017 3 0.293397 0.057414 -0.51207]]>
+    <![CDATA[Li 6.32143 2.35873 12.1849 3 0.361266 -0.270773 0.179048]]>
+    <![CDATA[Li 8.74108 1.8932 10.2123 3 0.568405 0.682717 -0.269958]]>
+    <![CDATA[Li 6.38973 5.5299 12.2135 3 0.32337 -0.272841 -0.2543]]>
+    <![CDATA[Li 4.74342 4.14727 5.33563 3 0.559233 -0.005784 0.089805]]>
+    <![CDATA[Li 4.87803 6.76788 1.82846 3 -0.425564 0.231931 -0.179399]]>
+    <![CDATA[Li 2.12685 7.68145 10.6986 3 0.136795 0.214337 -0.020591]]>
+    <![CDATA[Li 7.15703 2.46213 2.69712 3 0.103341 -0.163145 0.037436]]>
+    <![CDATA[Li 9.93576 7.15175 9.0326 3 -0.204321 -0.10573 -0.067316]]>
+    <![CDATA[Li 0.18865 3.80261 5.61971 3 -0.337146 -0.032695 0.221265]]>
+    <![CDATA[Li 9.30989 2.12927 0.50282 3 0.271472 -0.376856 0.020703]]>
+    <![CDATA[Li 7.36638 1.37809 5.5487 3 0.080049 0.070685 -0.241863]]>
+    <![CDATA[Li 5.5615 6.48557 9.57084 3 -0.043421 -0.009157 -0.060706]]>
+    <![CDATA[Li 6.39773 8.40401 3.07503 3 0.072071 0.331239 0.272473]]>
+    <![CDATA[Li 7.20953 0.33868 9.53286 3 -0.528254 -0.583823 -0.12941]]>
+    <![CDATA[Li 6.16441 2.85317 7.60007 3 0.057557 -0.034262 0.387558]]>
+    <![CDATA[Li 9.02802 8.91933 0.43677 3 -0.129881 0.116568 0.151096]]>
+    <![CDATA[P 2.97745 6.22483 4.17598 15 -0.350813 0.633926 -0.250273]]>
+    <![CDATA[P 2.90775 4.80999 10.9276 15 -0.381095 -1.126354 -0.475714]]>
+    <![CDATA[P 0.97581 4.4316 12.1008 15 -0.204288 -0.438225 -0.692019]]>
+    <![CDATA[P 2.02439 7.31585 6.02528 15 -0.04051 -2.120564 0.351352]]>
+    <![CDATA[P 10.1153 6.36661 5.61265 15 0.815182 -0.19614 0.240184]]>
+    <![CDATA[S 3.77625 1.0829 9.94815 16 0.709615 -0.284621 0.248716]]>
+    <![CDATA[S 3.93267 9.09877 2.71275 16 0.194448 0.117663 -0.477966]]>
+    <![CDATA[S 4.45378 9.35007 10.233 16 0.217305 0.022359 -0.732955]]>
+    <![CDATA[S 2.03375 9.29456 5.93826 16 0.110157 1.789246 -0.330945]]>
+    <![CDATA[S 8.81323 7.55288 6.73711 16 0.251457 0.300205 0.061497]]>
+    <![CDATA[S 0.26296 2.00349 7.30652 16 0.539366 0.38682 -0.050803]]>
+    <![CDATA[S 5.10068 6.31559 4.15199 16 0.035072 -0.195722 0.347144]]>
+    <![CDATA[S 4.05802 6.32268 11.7256 16 0.418854 0.734483 0.39433]]>
+    <![CDATA[S 1.83058 3.98161 1.69383 16 -0.053701 -0.079787 0.00297]]>
+    <![CDATA[S 1.86484 5.70233 9.23836 16 -0.429967 -0.082763 0.842286]]>
+    <![CDATA[S 7.94115 3.83679 0.98765 16 -0.462404 1.001637 0.286488]]>
+    <![CDATA[S 7.89418 5.81011 10.0852 16 -0.252 1.962609 1.10739]]>
+    <![CDATA[S 0.79773 2.4963 11.147 16 -0.11959 0.872051 0.156765]]>
+    <![CDATA[S 9.73516 6.68222 3.5937 16 -0.239272 0.006734 -0.600323]]>
+    <![CDATA[S 0.91007 2.1979 2.32108 16 0.20454 0.120782 0.226342]]>
+    <![CDATA[S 8.04197 0.48143 11.7763 16 -0.365986 -0.370481 0.078486]]>
+    <![CDATA[S 8.57909 1.25651 7.55519 16 -0.461543 -0.336571 0.471818]]>
+    <![CDATA[S 4.95664 1.81683 5.72479 16 -0.087606 -0.243825 0.002737]]>
+    <![CDATA[S 7.05964 7.41054 1.08167 16 0.487977 -0.602651 0.259006]]>
+    <![CDATA[S 8.22159 4.10137 9.10423 16 -0.357523 -1.630764 -0.863441]]>
+    <![CDATA[S 4.68586 1.8974 1.74042 16 0.212683 1.233603 0.250317]]>
+    <![CDATA[S 5.50002 2.26779 9.94948 16 -0.322479 -0.049653 -0.646447]]>
+    <![CDATA[S 5.61572 8.74356 8.51826 16 -0.407234 0.527521 0.60887]]>
+    <![CDATA[S 4.22519 0.08393 0.9848 16 -0.32876 -1.294878 0.144874]]>
+    <![CDATA[S 2.49054 4.40664 5.0904 16 -0.087164 -0.50411 0.119098]]>
+    <![CDATA[Cl 5.37747 5.08779 7.52598 17 -0.483984 0.118718 -0.018493]]>
+    <![CDATA[Cl 8.1344 3.51235 4.64683 17 0.088791 0.200803 -0.031677]]>
+    <![CDATA[Cl 0.80459 9.22251 9.38599 17 -0.194273 -0.074349 0.135821]]>
+    <![CDATA[Cl 7.65186 0.23068 3.55209 17 -0.416881 -0.21677 -0.14113]]>
+    <![CDATA[Cl 0.71682 7.76378 0.34367 17 0.07633 -0.082124 0.006569]]>
+    <![CDATA[65]]>
+    <![CDATA[energy=-258.89449956 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 6.4349 9.16607 0.05659 3 -0.613147 1.013922 -0.594627]]>
+    <![CDATA[Li 7.50272 5.83961 7.55697 3 0.217967 -0.14687 0.113421]]>
+    <![CDATA[Li 2.35744 1.7847 0.35551 3 0.30632 -0.198429 0.227055]]>
+    <![CDATA[Li 1.5724 7.44374 2.54285 3 -0.157231 0.187577 -0.121269]]>
+    <![CDATA[Li 3.05985 2.1324 4.00536 3 -0.206003 0.113643 -0.034367]]>
+    <![CDATA[Li 2.04563 0.49298 8.1791 3 -0.12037 0.017995 -0.08475]]>
+    <![CDATA[Li 7.52496 5.7302 2.65805 3 0.135731 -0.187566 0.063831]]>
+    <![CDATA[Li 5.23969 0.73614 3.72018 3 0.331269 -0.389668 -0.013531]]>
+    <![CDATA[Li 10.0711 9.55989 7.17212 3 -0.096829 0.147911 -0.06203]]>
+    <![CDATA[Li 9.62207 4.12468 2.80985 3 0.068975 -0.019903 -0.105196]]>
+    <![CDATA[Li 4.42925 9.90246 6.4947 3 -0.05484 -0.146729 0.167237]]>
+    <![CDATA[Li 9.12767 6.02097 0.1052 3 -0.176276 -0.272824 -0.107842]]>
+    <![CDATA[Li 0.14663 3.73071 9.06733 3 0.909666 0.003762 -0.118625]]>
+    <![CDATA[Li 3.03382 5.35808 7.40191 3 0.31603 0.04926 -0.515236]]>
+    <![CDATA[Li 6.32665 2.35396 12.1789 3 0.346051 -0.26501 0.199621]]>
+    <![CDATA[Li 8.73313 1.91514 10.224 3 0.546361 0.648744 -0.269813]]>
+    <![CDATA[Li 6.39473 5.53503 12.2191 3 0.298755 -0.307762 -0.279232]]>
+    <![CDATA[Li 4.74883 4.14004 5.33964 3 0.536437 0.022001 0.080066]]>
+    <![CDATA[Li 4.87989 6.77151 1.82201 3 -0.439109 0.229815 -0.153902]]>
+    <![CDATA[Li 2.11164 7.67825 10.6956 3 0.158493 0.219877 -0.006372]]>
+    <![CDATA[Li 7.14748 2.46159 2.70757 3 0.116552 -0.138879 -0.001617]]>
+    <![CDATA[Li 9.94247 7.14998 9.0239 3 -0.213656 -0.098738 -0.056002]]>
+    <![CDATA[Li 0.19328 3.80608 5.62122 3 -0.342091 -0.045517 0.225363]]>
+    <![CDATA[Li 9.30265 2.12571 0.50123 3 0.306868 -0.373417 0.040318]]>
+    <![CDATA[Li 7.37415 1.38483 5.54814 3 0.06072 0.065317 -0.238844]]>
+    <![CDATA[Li 5.5637 6.48353 9.56997 3 -0.054313 -0.007686 -0.0555]]>
+    <![CDATA[Li 6.40366 8.41187 3.07432 3 0.059942 0.308362 0.26899]]>
+    <![CDATA[Li 7.21378 0.33445 9.53589 3 -0.512872 -0.56973 -0.134509]]>
+    <![CDATA[Li 6.15714 2.85427 7.60007 3 0.062519 -0.043301 0.391734]]>
+    <![CDATA[Li 9.02559 8.91725 0.46421 3 -0.129767 0.139573 0.12532]]>
+    <![CDATA[P 2.97686 6.22565 4.17377 15 -0.331298 0.610246 -0.234118]]>
+    <![CDATA[P 2.90554 4.81045 10.928 15 -0.341368 -1.096838 -0.470332]]>
+    <![CDATA[P 0.9757 4.43216 12.1022 15 -0.230107 -0.436768 -0.692225]]>
+    <![CDATA[P 2.02279 7.30848 6.0255 15 -0.025505 -1.812383 0.3261]]>
+    <![CDATA[P 10.1183 6.36646 5.6117 15 0.776839 -0.186713 0.23568]]>
+    <![CDATA[S 3.77555 1.08131 9.94905 16 0.719984 -0.281101 0.239772]]>
+    <![CDATA[S 3.9341 9.09825 2.7105 16 0.189001 0.090899 -0.439748]]>
+    <![CDATA[S 4.45459 9.3489 10.2329 16 0.211829 0.028523 -0.72617]]>
+    <![CDATA[S 2.03445 9.30025 5.93886 16 0.099748 1.508365 -0.318487]]>
+    <![CDATA[S 8.81373 7.55272 6.7351 16 0.264785 0.288677 0.054794]]>
+    <![CDATA[S 0.26503 2.00287 7.30672 16 0.506349 0.391017 -0.056002]]>
+    <![CDATA[S 5.10098 6.31455 4.15166 16 0.015445 -0.188893 0.332914]]>
+    <![CDATA[S 4.06111 6.32246 11.726 16 0.384561 0.707318 0.375069]]>
+    <![CDATA[S 1.83173 3.97985 1.69355 16 -0.049405 -0.073952 0.003723]]>
+    <![CDATA[S 1.86455 5.70616 9.2377 16 -0.431787 -0.098217 0.853209]]>
+    <![CDATA[S 7.94348 3.83492 0.98581 16 -0.486472 1.00886 0.322644]]>
+    <![CDATA[S 7.89166 5.8143 10.0868 16 -0.194356 1.75879 0.985246]]>
+    <![CDATA[S 0.7944 2.49727 11.1465 16 -0.107049 0.876024 0.172375]]>
+    <![CDATA[S 9.73369 6.68466 3.59392 16 -0.237786 0.001185 -0.598603]]>
+    <![CDATA[S 0.91035 2.19757 2.32117 16 0.201998 0.115227 0.223587]]>
+    <![CDATA[S 8.04335 0.4825 11.7766 16 -0.354684 -0.418427 0.091917]]>
+    <![CDATA[S 8.57867 1.25645 7.55579 16 -0.430216 -0.316012 0.467154]]>
+    <![CDATA[S 4.95774 1.81674 5.72332 16 -0.07414 -0.276508 -0.01291]]>
+    <![CDATA[S 7.05628 7.40981 1.0821 16 0.52864 -0.620266 0.306189]]>
+    <![CDATA[S 8.22258 4.09477 9.10164 16 -0.397268 -1.402515 -0.760993]]>
+    <![CDATA[S 4.68606 1.9017 1.74173 16 0.190809 1.125976 0.206926]]>
+    <![CDATA[S 5.50015 2.26816 9.94777 16 -0.337003 -0.06151 -0.645025]]>
+    <![CDATA[S 5.61471 8.74279 8.51808 16 -0.397503 0.524105 0.602754]]>
+    <![CDATA[S 4.2233 0.08069 0.98694 16 -0.287305 -1.169628 0.141879]]>
+    <![CDATA[S 2.4918 4.40653 5.09037 16 -0.07554 -0.496271 0.112316]]>
+    <![CDATA[Cl 5.3777 5.08905 7.52539 17 -0.489555 0.119298 -0.022535]]>
+    <![CDATA[Cl 8.13502 3.5147 4.64665 17 0.089658 0.206626 -0.031469]]>
+    <![CDATA[Cl 0.80871 9.22337 9.38447 17 -0.217467 -0.085375 0.131762]]>
+    <![CDATA[Cl 7.65242 0.22966 3.55265 17 -0.406725 -0.214041 -0.141285]]>
+    <![CDATA[Cl 0.71652 7.76408 0.34475 17 0.060739 -0.081447 0.014198]]>
+    <![CDATA[65]]>
+    <![CDATA[energy=-256.33511583 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 6.50576 9.16547 0.14553 3 -0.609681 1.343074 -0.790352]]>
+    <![CDATA[Li 7.44275 5.89094 7.55281 3 0.246552 -0.335978 0.230175]]>
+    <![CDATA[Li 2.23066 1.74455 0.29571 3 0.487179 -0.295151 0.372402]]>
+    <![CDATA[Li 1.65806 7.2186 2.46964 3 -0.284899 0.230653 -0.092442]]>
+    <![CDATA[Li 2.98959 2.01546 4.06789 3 -0.254732 0.110257 -0.064505]]>
+    <![CDATA[Li 2.11437 0.53042 8.16788 3 -0.269442 -0.031517 -0.117482]]>
+    <![CDATA[Li 7.57702 5.76514 2.66529 3 0.133315 -0.204028 0.077228]]>
+    <![CDATA[Li 5.24397 0.80592 3.75067 3 0.304676 -0.484367 -0.048052]]>
+    <![CDATA[Li 10.111 9.49408 7.25337 3 -0.219844 0.224852 -0.160627]]>
+    <![CDATA[Li 9.53168 3.98566 2.83642 3 -0.00122 0.106913 -0.176579]]>
+    <![CDATA[Li 4.4884 9.96061 6.50143 3 -0.112153 -0.2573 0.224297]]>
+    <![CDATA[Li 9.17375 6.07881 0.18787 3 -0.309978 -0.419331 -0.149825]]>
+    <![CDATA[Li 0.05538 3.68819 9.09932 3 1.336005 -0.050493 -0.262928]]>
+    <![CDATA[Li 3.07812 5.32844 7.38314 3 0.180151 0.162894 -0.432062]]>
+    <![CDATA[Li 6.14439 2.44204 12.1878 3 0.571827 -0.342609 0.541141]]>
+    <![CDATA[Li 8.57833 1.97949 10.2474 3 0.773666 0.86502 -0.063237]]>
+    <![CDATA[Li 6.31885 5.53675 12.2442 3 0.513186 -0.276852 -0.292715]]>
+    <![CDATA[Li 4.56197 4.15562 5.37831 3 1.291102 -0.016038 0.072635]]>
+    <![CDATA[Li 4.95648 6.71573 1.93731 3 -0.485516 0.411435 -0.546358]]>
+    <![CDATA[Li 2.13806 7.5667 10.6735 3 0.101739 0.480159 -0.011296]]>
+    <![CDATA[Li 7.04777 2.53689 2.72243 3 0.187233 -0.195145 -0.072552]]>
+    <![CDATA[Li 9.97789 7.13606 8.97844 3 -0.253514 -0.120455 -0.02029]]>
+    <![CDATA[Li 0.26142 3.76008 5.54874 3 -0.622428 -0.03704 0.343268]]>
+    <![CDATA[Li 9.29008 2.21907 0.47318 3 0.501464 -0.738491 -0.053791]]>
+    <![CDATA[Li 7.29721 1.30943 5.55052 3 0.179219 0.246399 -0.09988]]>
+    <![CDATA[Li 5.58309 6.5141 9.57807 3 -0.037323 -0.068347 -0.033231]]>
+    <![CDATA[Li 6.40958 8.56751 3.0319 3 0.137247 0.125961 0.17796]]>
+    <![CDATA[Li 7.23168 0.49753 9.49897 3 -0.648191 -0.967463 -0.079368]]>
+    <![CDATA[Li 6.14299 2.86849 7.58171 3 0.15178 -0.043857 0.446115]]>
+    <![CDATA[Li 9.19048 8.95106 0.33653 3 -0.40326 0.351656 0.089382]]>
+    <![CDATA[P 3.04294 6.22141 4.19316 15 -0.527373 1.046538 -0.669357]]>
+    <![CDATA[P 2.87889 4.88764 10.9426 15 -0.51372 -1.790762 -0.731045]]>
+    <![CDATA[P 0.97597 4.42144 12.1576 15 -0.243707 -0.373303 -0.919089]]>
+    <![CDATA[P 2.02127 7.33406 6.00447 15 -0.043029 -2.757076 0.688971]]>
+    <![CDATA[P 10.0331 6.37939 5.6352 15 1.124926 -0.395424 0.162943]]>
+    <![CDATA[S 3.76556 1.10783 9.92066 16 1.091645 -0.368511 0.438112]]>
+    <![CDATA[S 3.92068 9.12356 2.75092 16 0.297621 0.103077 -0.681108]]>
+    <![CDATA[S 4.49244 9.38979 10.234 16 0.229291 0.064731 -0.921935]]>
+    <![CDATA[S 2.04653 9.28675 6.00821 16 0.237882 2.432054 -0.510502]]>
+    <![CDATA[S 8.6847 7.55551 6.71055 16 0.607224 0.642305 -0.021034]]>
+    <![CDATA[S 0.27271 1.96227 7.27592 16 0.76018 0.661233 -0.0582]]>
+    <![CDATA[S 5.15994 6.30856 4.13611 16 0.017666 -0.384517 0.90411]]>
+    <![CDATA[S 4.02479 6.36239 11.7485 16 0.689824 1.05624 0.608461]]>
+    <![CDATA[S 1.9009 3.92983 1.698 16 -0.161182 -0.115066 -0.193477]]>
+    <![CDATA[S 1.8782 5.73076 9.18626 16 -0.483739 -0.192792 0.998113]]>
+    <![CDATA[S 7.90873 3.78489 0.9346 16 -0.908328 1.605448 0.626628]]>
+    <![CDATA[S 7.89568 5.71292 10.0752 16 -0.502177 3.253228 1.788955]]>
+    <![CDATA[S 0.76927 2.50699 11.1066 16 -0.134522 1.093881 0.225509]]>
+    <![CDATA[S 9.74768 6.64395 3.60083 16 -0.273008 -0.013796 -0.779656]]>
+    <![CDATA[S 0.824 2.21206 2.28041 16 0.45374 0.090116 0.40729]]>
+    <![CDATA[S 8.04798 0.54193 11.8439 16 -0.412098 -0.67873 -0.155184]]>
+    <![CDATA[S 8.60294 1.2274 7.48625 16 -0.713053 -0.504196 0.665694]]>
+    <![CDATA[S 4.89901 1.89578 5.73222 16 -0.015171 -0.61919 0.009099]]>
+    <![CDATA[S 7.10933 7.40891 1.08392 16 0.42523 -0.863677 0.475195]]>
+    <![CDATA[S 8.20144 4.08758 9.06349 16 -0.468541 -2.614382 -1.606935]]>
+    <![CDATA[S 4.60672 1.85438 1.77534 16 0.311951 1.745032 0.287731]]>
+    <![CDATA[S 5.49958 2.33654 10.0099 16 -0.585051 -0.191193 -1.174331]]>
+    <![CDATA[S 5.71241 8.73364 8.53602 16 -0.593483 0.796108 0.661187]]>
+    <![CDATA[S 4.2387 0.06979 0.96822 16 -0.437662 -1.712032 0.333577]]>
+    <![CDATA[S 2.4582 4.45408 5.09452 16 -0.456029 -0.794183 0.16976]]>
+    <![CDATA[Cl 5.39653 5.04783 7.5073 17 -0.709527 0.269742 0.00696]]>
+    <![CDATA[Cl 8.15083 3.43148 4.65352 17 0.085738 0.371566 0.002174]]>
+    <![CDATA[Cl 0.90395 9.20184 9.35656 17 -0.312471 -0.133797 0.270755]]>
+    <![CDATA[Cl 7.6945 0.30223 3.58651 17 -0.594431 -0.415315 -0.33496]]>
+    <![CDATA[Cl 0.76022 7.70442 0.32377 17 0.171225 -0.088172 0.01856]]>
+    <![CDATA[65]]>
+    <![CDATA[energy=-256.62383687 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 6.55126 9.13576 0.10734 3 -0.738652 1.485819 -0.858008]]>
+    <![CDATA[Li 7.44201 5.8782 7.54057 3 0.289949 -0.292254 0.225601]]>
+    <![CDATA[Li 2.26569 1.76509 0.31745 3 0.42789 -0.278643 0.307329]]>
+    <![CDATA[Li 1.6456 7.19439 2.52038 3 -0.369814 0.338291 -0.313008]]>
+    <![CDATA[Li 2.94633 2.01344 4.04886 3 -0.208836 0.111601 -0.034998]]>
+    <![CDATA[Li 2.10736 0.54041 8.17894 3 -0.239376 -0.03069 -0.146016]]>
+    <![CDATA[Li 7.57536 5.78126 2.67165 3 0.121221 -0.244419 0.067703]]>
+    <![CDATA[Li 5.21116 0.82284 3.73476 3 0.37959 -0.559508 0.054599]]>
+    <![CDATA[Li 10.0872 9.52161 7.26487 3 -0.146167 0.165835 -0.201925]]>
+    <![CDATA[Li 9.53034 3.99388 2.88078 3 0.01138 0.115374 -0.283768]]>
+    <![CDATA[Li 4.48826 9.96022 6.50114 3 -0.112165 -0.230547 0.209788]]>
+    <![CDATA[Li 9.15351 6.06236 0.17548 3 -0.251301 -0.382007 -0.135998]]>
+    <![CDATA[Li 0.06525 3.68234 9.09125 3 1.34437 -0.037131 -0.235923]]>
+    <![CDATA[Li 3.06034 5.34444 7.4049 3 0.353145 0.085039 -0.60991]]>
+    <![CDATA[Li 6.14762 2.44989 12.198 3 0.530295 -0.334519 0.444348]]>
+    <![CDATA[Li 8.61843 1.98274 10.2773 3 0.730759 0.889741 -0.136825]]>
+    <![CDATA[Li 6.355 5.55302 12.2397 3 0.440514 -0.351798 -0.328998]]>
+    <![CDATA[Li 4.57952 4.14555 5.38609 3 1.138121 0.075889 0.045095]]>
+    <![CDATA[Li 4.93963 6.68793 1.8887 3 -0.465038 0.392772 -0.339786]]>
+    <![CDATA[Li 2.13606 7.57761 10.6679 3 0.117575 0.463274 0.028989]]>
+    <![CDATA[Li 7.05376 2.52366 2.73456 3 0.176182 -0.176417 -0.109911]]>
+    <![CDATA[Li 9.99275 7.1352 8.95908 3 -0.266041 -0.10953 -0.009108]]>
+    <![CDATA[Li 0.26552 3.76918 5.55998 3 -0.616719 -0.058253 0.353753]]>
+    <![CDATA[Li 9.28742 2.21513 0.49192 3 0.493329 -0.714635 -0.045959]]>
+    <![CDATA[Li 7.32053 1.33882 5.56659 3 0.081462 0.145619 -0.300833]]>
+    <![CDATA[Li 5.60396 6.5172 9.58619 3 -0.07935 -0.070663 -0.051996]]>
+    <![CDATA[Li 6.41071 8.53663 3.01345 3 0.071634 0.253963 0.267345]]>
+    <![CDATA[Li 7.25481 0.48606 9.51618 3 -0.667633 -0.890447 -0.111772]]>
+    <![CDATA[Li 6.15081 2.85268 7.52459 3 0.148804 -0.007942 0.585035]]>
+    <![CDATA[Li 9.1949 8.96525 0.30811 3 -0.302795 0.291743 0.115248]]>
+    <![CDATA[P 3.03951 6.22481 4.17747 15 -0.294856 0.788942 -0.292975]]>
+    <![CDATA[P 2.87427 4.88317 10.9393 15 -0.401795 -1.651204 -0.650199]]>
+    <![CDATA[P 0.97149 4.41865 12.1555 15 -0.25248 -0.356872 -0.917537]]>
+    <![CDATA[P 2.01157 7.31801 6.01077 15 0.024236 -1.808993 0.518708]]>
+    <![CDATA[P 10.038 6.36761 5.6338 15 0.983334 -0.190996 0.140641]]>
+    <![CDATA[S 3.76703 1.10592 9.9286 16 1.10252 -0.333389 0.406224]]>
+    <![CDATA[S 3.91833 9.12109 2.74842 16 0.298903 0.108818 -0.654617]]>
+    <![CDATA[S 4.49135 9.38931 10.2404 16 0.23546 0.026417 -0.902436]]>
+    <![CDATA[S 2.04513 9.31014 6.00518 16 0.183478 1.495518 -0.458578]]>
+    <![CDATA[S 8.69136 7.55988 6.71036 16 0.655025 0.489217 -0.052815]]>
+    <![CDATA[S 0.26777 1.96573 7.2747 16 0.569759 0.589226 -0.04339]]>
+    <![CDATA[S 5.16862 6.30649 4.13925 16 -0.200769 -0.349481 0.704581]]>
+    <![CDATA[S 4.03196 6.35734 11.7577 16 0.572619 0.919866 0.490329]]>
+    <![CDATA[S 1.90318 3.93107 1.69286 16 -0.188505 -0.124788 -0.184003]]>
+    <![CDATA[S 1.87733 5.73335 9.18273 16 -0.562372 -0.161425 1.154697]]>
+    <![CDATA[S 7.90512 3.79045 0.93876 16 -0.862063 1.559342 0.64586]]>
+    <![CDATA[S 7.88959 5.72733 10.0801 16 -0.293279 2.486097 1.324369]]>
+    <![CDATA[S 0.76979 2.50017 11.1125 16 -0.072822 1.068111 0.27478]]>
+    <![CDATA[S 9.74429 6.64776 3.59462 16 -0.265415 -0.066397 -0.623864]]>
+    <![CDATA[S 0.81729 2.21798 2.28314 16 0.476913 0.127653 0.424624]]>
+    <![CDATA[S 8.05066 0.5433 11.834 16 -0.404579 -0.696662 -0.06991]]>
+    <![CDATA[S 8.58761 1.21726 7.48565 16 -0.460737 -0.376871 0.704137]]>
+    <![CDATA[S 4.90144 1.9044 5.72622 16 -0.044008 -0.721048 -0.026731]]>
+    <![CDATA[S 7.09748 7.41019 1.08833 16 0.536111 -0.988433 0.481111]]>
+    <![CDATA[S 8.21292 4.07001 9.05638 16 -0.636727 -1.844768 -1.138036]]>
+    <![CDATA[S 4.60917 1.85894 1.77903 16 0.24391 1.624805 0.147842]]>
+    <![CDATA[S 5.50216 2.32783 9.99885 16 -0.577805 -0.183367 -1.089497]]>
+    <![CDATA[S 5.71177 8.73732 8.54355 16 -0.583059 0.776619 0.656481]]>
+    <![CDATA[S 4.24001 0.0643 0.97096 16 -0.387833 -1.577023 0.354646]]>
+    <![CDATA[S 2.45867 4.44604 5.09 16 -0.321858 -0.631882 0.101904]]>
+    <![CDATA[Cl 5.40143 5.03821 7.5163 17 -0.767874 0.273849 -0.001899]]>
+    <![CDATA[Cl 8.14357 3.43509 4.6515 17 0.091975 0.401067 0.088629]]>
+    <![CDATA[Cl 0.90912 9.21233 9.35165 17 -0.346453 -0.172587 0.304294]]>
+    <![CDATA[Cl 7.69475 0.30983 3.58815 17 -0.603183 -0.423705 -0.308937]]>
+    <![CDATA[Cl 0.75802 7.70524 0.33048 17 0.161893 -0.121211 0.041473]]>
+    <![CDATA[65]]>
+    <![CDATA[energy=-255.43750796 pbc="T T T" Lattice="10.25 0.0 0.0 0.0 10.25 0.0 0.0 0.0 12.35" Properties=species:S:1:pos:R:3:Z:I:1:force:R:3]]>
+    <![CDATA[Li 6.37969 9.26833 12.2505 3 0.200087 -0.078154 0.081623]]>
+    <![CDATA[Li 7.49681 5.83405 7.57973 3 -0.042368 -0.317736 0.010796]]>
+    <![CDATA[Li 2.40151 1.77208 0.4238 3 0.050646 -0.093147 -0.051657]]>
+    <![CDATA[Li 1.55294 7.01721 2.33589 3 0.094296 0.023533 0.397821]]>
+    <![CDATA[Li 2.5873 1.86601 3.94519 3 0.146095 0.004041 0.139488]]>
+    <![CDATA[Li 2.09903 0.61858 8.08431 3 -0.11195 -0.184177 0.111294]]>
+    <![CDATA[Li 7.76046 5.78189 2.72455 3 -0.392621 -0.111986 -0.084847]]>
+    <![CDATA[Li 5.21489 0.75708 3.82096 3 -0.132009 -0.024456 -0.062143]]>
+    <![CDATA[Li 10.0811 9.52687 7.3314 3 -0.047542 -0.034468 -0.288113]]>
+    <![CDATA[Li 9.47564 3.72118 2.91377 3 -0.491538 0.95886 -0.260079]]>
+    <![CDATA[Li 4.475 10.0689 6.61404 3 -0.224123 -0.248101 0.057827]]>
+    <![CDATA[Li 9.08382 6.01851 0.33145 3 -0.096702 -0.305682 -0.247659]]>
+    <![CDATA[Li 0.3107 3.66907 9.0368 3 -0.00191 0.275218 -0.442593]]>
+    <![CDATA[Li 3.18802 5.35842 7.27691 3 -0.372707 0.222534 -0.020412]]>
+    <![CDATA[Li 6.08691 2.53728 12.3406 3 0.286991 -0.567941 0.074634]]>
+    <![CDATA[Li 8.56997 2.12372 10.1927 3 0.370451 0.065637 0.286255]]>
+    <![CDATA[Li 6.36996 5.46158 12.1441 3 0.256222 0.114412 0.062443]]>
+    <![CDATA[Li 4.72968 4.11751 5.44587 3 0.120747 0.831498 -0.396849]]>
+    <![CDATA[Li 4.91334 6.73715 1.87934 3 0.040387 0.408803 -0.140076]]>
+    <![CDATA[Li 2.32495 7.57839 10.7184 3 -0.244668 0.452985 -0.250812]]>
+    <![CDATA[Li 6.85166 2.74339 2.7487 3 0.127746 -0.254602 -0.062133]]>
+    <![CDATA[Li 9.87772 7.11031 8.96333 3 -0.050589 -0.086788 0.085624]]>
+    <![CDATA[Li 0.11003 3.6464 5.623 3 -0.268795 0.331083 0.1228]]>
+    <![CDATA[Li 9.34427 2.21548 0.46175 3 -0.268633 -0.01312 -0.033318]]>
+    <![CDATA[Li 7.17429 1.20536 5.5322 3 0.13534 0.554519 0.259081]]>
+    <![CDATA[Li 5.6972 6.56613 9.58913 3 -0.188873 -0.203378 0.061779]]>
+    <![CDATA[Li 6.59431 8.94036 2.9975 3 -0.046927 -0.946479 -0.506116]]>
+    <![CDATA[Li 6.92975 0.53752 9.52015 3 0.24069 -0.46671 0.39873]]>
+    <![CDATA[Li 6.18271 2.6513 7.73932 3 -0.073455 0.442159 -0.03164]]>
+    <![CDATA[Li 9.51745 9.17641 0.15207 3 -0.544591 0.114503 -0.001906]]>
+    <![CDATA[P 3.13834 6.28786 4.18897 15 -0.948379 0.235422 -0.788025]]>
+    <![CDATA[P 2.8192 4.89802 10.9528 15 0.167413 -0.652979 -0.426454]]>
+    <![CDATA[P 0.94094 4.33104 12.1747 15 0.194894 0.926371 -0.131624]]>
+    <![CDATA[P 1.98782 7.25792 5.96696 15 0.254363 -0.022554 1.165292]]>
+    <![CDATA[P 9.97511 6.39586 5.69001 15 0.911794 -0.25974 -0.446131]]>
+    <![CDATA[S 3.82859 1.11903 9.9203 16 0.522077 0.289943 0.033965]]>
+    <![CDATA[S 3.92062 9.16049 2.81415 16 0.384876 -0.085698 -0.963904]]>
+    <![CDATA[S 4.6048 9.46667 10.1672 16 -0.282498 -0.33139 0.629144]]>
+    <![CDATA[S 2.06076 9.3465 6.14989 16 0.309153 0.079929 -1.05243]]>
+    <![CDATA[S 8.55877 7.61582 6.68768 16 0.906249 0.391396 -0.267178]]>
+    <![CDATA[S 0.31942 1.92293 7.2066 16 -0.598724 0.334596 0.143619]]>
+    <![CDATA[S 5.24897 6.28355 4.14516 16 -0.372543 -0.305231 0.731023]]>
+    <![CDATA[S 4.03593 6.44875 11.8152 16 0.197789 -0.279146 -0.082378]]>
+    <![CDATA[S 2.02909 3.84359 1.70281 16 -1.146149 -0.033958 -0.670154]]>
+    <![CDATA[S 1.86392 5.7539 9.15676 16 -0.066456 -0.430119 0.933726]]>
+    <![CDATA[S 7.74429 3.83483 0.88797 16 0.161999 0.786833 1.03794]]>
+    <![CDATA[S 7.89962 5.70645 10.1924 16 0.038886 0.354657 -0.549173]]>
+    <![CDATA[S 0.72681 2.58018 11.0646 16 0.411066 -0.341472 0.328207]]>
+    <![CDATA[S 9.79246 6.54391 3.5723 16 -0.214176 0.008042 0.071836]]>
+    <![CDATA[S 0.6615 2.26864 2.23317 16 1.701325 -0.49615 0.340846]]>
+    <![CDATA[S 7.99213 0.65557 11.9463 16 -0.233131 -0.745028 -0.832161]]>
+    <![CDATA[S 8.57021 1.10696 7.39589 16 0.283107 0.182126 0.816817]]>
+    <![CDATA[S 4.76138 2.0075 5.73292 16 0.439993 -1.939228 0.2316]]>
+    <![CDATA[S 7.237 7.32975 1.094 16 -0.591547 0.81294 -0.074012]]>
+    <![CDATA[S 8.10771 4.00557 8.90813 16 0.648875 0.126117 0.448883]]>
+    <![CDATA[S 4.47382 1.85237 1.86342 16 0.312387 0.065203 -0.739933]]>
+    <![CDATA[S 5.47813 2.46146 10.0399 16 -0.551853 -0.418025 -0.682105]]>
+    <![CDATA[S 5.87094 8.79737 8.67321 16 -0.13492 0.456695 -0.747535]]>
+    <![CDATA[S 4.24945 10.2053 0.93443 16 -0.2086 -0.001145 1.607633]]>
+    <![CDATA[S 2.3523 4.53091 5.09532 16 0.560575 -0.627937 0.0253]]>
+    <![CDATA[Cl 5.37319 4.95532 7.47769 17 -0.160469 0.539848 0.319746]]>
+    <![CDATA[Cl 8.19572 3.30848 4.64163 17 -0.188033 0.688198 0.413466]]>
+    <![CDATA[Cl 1.07842 9.11606 9.25719 17 -0.499572 -0.036376 0.724868]]>
+    <![CDATA[Cl 7.72543 0.45532 3.60041 17 -0.416431 -0.474992 -0.6174]]>
+    <![CDATA[Cl 0.85541 7.54339 0.28524 17 -0.263037 0.339993 -0.203158]]>
+    </XYZ_data>
+</GAP_params>
+</GAP_2022_9_29_-300_10_6_16_756>

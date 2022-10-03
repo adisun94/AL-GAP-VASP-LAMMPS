@@ -1,0 +1,37 @@
+# Test of GAP potential for Si system
+
+units		metal
+boundary	p p p
+
+atom_style	atomic
+
+read_data	lammpsdata
+group	 	g_Li id 1
+group 		g_P id 2
+group		g_S id 3
+group       g_Cl id 4
+
+pair_style	quip
+pair_coeff	* * ../gap/GAP.xml "Potential xml_label=GAP_2022_9_29_-300_10_6_16_756" 3 15 16 17
+
+neighbor	0.3 bin
+neigh_modify	delay 10
+
+thermo		1
+timestep	0.001
+thermo_style	custom step temp pe ke etotal
+
+dump		d1 all custom 5 dump id type x y z fx fy fz
+
+variable poteng equal pe
+variable kineng equal ke
+variable toteng equal etotal
+variable temper equal temp
+variable stepnum equal step
+fix pots all print 1 "${stepnum} ${temper} ${poteng} ${kineng} ${toteng}" file energy4 title "Step Temp PotEng (eV) KinEng (eV) TotEng (eV)"
+
+velocity all create 1000 825577 dist gaussian
+
+fix 1 all nvt temp 1000 1000 0.1
+run 80
+unfix 1

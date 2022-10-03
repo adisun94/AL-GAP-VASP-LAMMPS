@@ -1,0 +1,139 @@
+LAMMPS (9 Oct 2020)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:94)
+  using 1 OpenMP thread(s) per MPI task
+# Test of GAP potential for Si system
+
+units		metal
+boundary	p p p
+
+atom_style	atomic
+
+read_data	lammpsdata
+Reading data file ...
+  orthogonal box = (0.0000000 0.0000000 0.0000000) to (10.250000 10.250000 12.350000)
+  4 by 4 by 4 MPI processor grid
+  reading atoms ...
+  65 atoms
+  read_data CPU = 0.017 seconds
+group	 	g_Li id 1
+1 atoms in group g_Li
+group 		g_P id 2
+1 atoms in group g_P
+group		g_S id 3
+1 atoms in group g_S
+group       g_Cl id 4
+1 atoms in group g_Cl
+
+pair_style	quip
+pair_coeff	* * ../gap/GAP.xml "Potential xml_label=GAP_2022_9_29_-300_9_59_56_99" 3 15 16 17
+
+neighbor	0.3 bin
+neigh_modify	delay 10
+
+thermo		1
+timestep	0.001
+thermo_style	custom step temp pe ke etotal
+
+dump		d1 all custom 5 dump id type x y z fx fy fz
+
+variable poteng equal pe
+variable kineng equal ke
+variable toteng equal etotal
+variable temper equal temp
+variable stepnum equal step
+fix pots all print 1 "${stepnum} ${temper} ${poteng} ${kineng} ${toteng}" file energy2 title "Step Temp PotEng (eV) KinEng (eV) TotEng (eV)"
+
+velocity all create 1000 825577 dist gaussian
+
+fix 1 all nvt temp 1000 1000 0.1
+run 20
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 4.3
+  ghost atom cutoff = 4.3
+  binsize = 2.15, bins = 5 5 6
+  1 neighbor lists, perpetual/occasional/extra = 1 0 0
+  (1) pair quip, perpetual
+      attributes: full, newton on
+      pair build: full/bin/atomonly
+      stencil: full/bin/3d
+      bin: standard
+0 1000 -260.625938291108 8.27264928 -252.353289011108
+Per MPI rank memory allocation (min/avg/max) = 3.207 | 3.926 | 4.207 Mbytes
+Step Temp PotEng KinEng TotEng 
+       0         1000   -260.62594    8.2726493   -252.35329 
+1 1000.27877883804 -260.628015665599 8.27495551955381 -252.353060146045
+       1    1000.2788   -260.62802    8.2749555   -252.35306 
+2 994.429095129709 -260.579475258649 8.22656313783584 -252.352912120814
+       2     994.4291   -260.57948    8.2265631   -252.35291 
+3 982.82709903673 -260.483192765478 8.1305838932107 -252.352608872268
+       3     982.8271   -260.48319    8.1305839   -252.35261 
+4 965.884548551292 -260.342751905445 7.99042411513597 -252.352327790309
+       4    965.88455   -260.34275    7.9904241   -252.35233 
+5 944.071804066166 -260.161951783961 7.80997493017627 -252.351976853784
+       5     944.0718   -260.16195    7.8099749   -252.35198 
+6 917.947563277807 -259.945270860429 7.59385824842791 -252.351412612001
+       6    917.94756   -259.94527    7.5938582   -252.35141 
+7 888.163297416671 -259.698349742493 7.34746346289645 -252.350886279597
+       7     888.1633   -259.69835    7.3474635   -252.35089 
+8 855.489428753477 -259.42707814829 7.07716400682506 -252.349914141465
+       8    855.48943   -259.42708     7.077164   -252.34991 
+9 820.89482919927 -259.139652127855 6.79097501773106 -252.348677110124
+       9    820.89483   -259.13965     6.790975   -252.34868 
+10 785.524743359682 -258.845420309414 6.49837070257666 -252.347049606838
+      10    785.52474   -258.84542    6.4983707   -252.34705 
+11 750.557779353879 -258.554421309076 6.20910127297027 -252.345320036106
+      11    750.55778   -258.55442    6.2091013   -252.34532 
+12 717.093927430653 -258.275712478692 5.93226656245157 -252.34344591624
+      12    717.09393   -258.27571    5.9322666   -252.34345 
+13 686.074158000979 -258.017079918707 5.6756508892134 -252.341429029494
+      13    686.07416   -258.01708    5.6756509   -252.34143 
+14 658.292375598412 -257.785133529262 5.44582194702369 -252.339311582239
+      14    658.29238   -257.78513    5.4458219   -252.33931 
+15 634.324918293586 -257.584483254224 5.2475475786075 -252.336935675617
+      15    634.32492   -257.58448    5.2475476   -252.33694 
+16 614.590647994462 -257.418638719945 5.08429288162612 -252.334345838319
+      16    614.59065   -257.41864    5.0842929   -252.33435 
+17 599.287309427412 -257.289480357718 4.95769372884781 -252.33178662887
+      17    599.28731   -257.28948    4.9576937   -252.33179 
+18 588.250092640426 -257.195121562567 4.86638670534175 -252.328734857226
+      18    588.25009   -257.19512    4.8663867   -252.32873 
+19 581.203147279149 -257.133632153752 4.80808979787258 -252.32554235588
+      19    581.20315   -257.13363    4.8080898   -252.32554 
+20 577.800205334129 -257.101815501101 4.77993845264124 -252.32187704846
+      20    577.80021   -257.10182    4.7799385   
+Nlocal:        1.01562 ave           3 max           0 min
+Histogram: 15 0 0 34 0 0 14 0 0 1
+Nghost:        72.9688 ave          78 max          64 min
+Histogram: 1 1 6 2 2 12 8 20 5 7
+Neighs:        0.00000 ave           0 max           0 min
+Histogram: 64 0 0 0 0 0 0 0 0 0
+FullNghs:      16.0625 ave          54 max           0 min
+Histogram: 15 0 21 13 0 9 5 0 0 1
+
+Total # of neighbors = 1028
+Ave neighs/atom = 15.815385
+Neighbor list builds = 2
+Dangerous builds = 2
+Total wall time: 0:00:05
+9    | 1.0822     |  66.0 | 34.09
+Output  | 0.012575   | 0.015355   | 0.015584   |   0.3 |  1.39
+Modify  | 0.0057238  | 0.0086185  | 0.024612   |   5.4 |  0.78
+Other   |            | 0.0004217  |            |       |  0.04
+
+Nlocal:        1.01562 ave           3 max           0 min
+Histogram: 15 0 0 34 0 0 14 0 0 1
+Nghost:        72.9688 ave          78 max          64 min
+Histogram: 1 1 6 2 2 12 8 20 5 7
+Neighs:        0.00000 ave           0 max           0 min
+Histogram: 64 0 0 0 0 0 0 0 0 0
+FullNghs:      16.0625 ave          54 max           0 min
+Histogram: 15 0 21 13 0 9 5 0 0 1
+
+Total # of neighbors = 1028
+Ave neighs/atom = 15.815385
+Neighbor list builds = 2
+Dangerous builds = 2
+unfix 1
+Total wall time: 0:00:05

@@ -1,0 +1,4 @@
+Iteration = 1, num_energies = 12, Energy MAE = 0.0014894514113133657 eV/atom, num_forces = 2340, Force MAE = 0.21236993071068377 eV/A 
+Iteration = 2, num_energies = 14, Energy MAE = 0.0017997103823608513 eV/atom, num_forces = 2730, Force MAE = 0.207469581989011 eV/A 
+Iteration = 3, num_energies = 16, Energy MAE = 0.0033940302153780133 eV/atom, num_forces = 3120, Force MAE = 0.22115169719839742 eV/A 
+Iteration = 4, num_energies = 18, Energy MAE = 0.005741904064066865 eV/atom, num_forces = 3510, Force MAE = 0.23500341307720798 eV/A 
