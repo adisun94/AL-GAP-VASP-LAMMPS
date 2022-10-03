@@ -9,24 +9,14 @@ Molecular dynamics simulations are run using the [LAMMPS](https://www.lammps.org
 The configuration energies and interatomic forces are evaluated at the Density Functional Theory (DFT) level using the [VASP](https://www.vasp.at/) software, version 5.4.4.
 
 #### ---- ActiveLearning
----- /GAPinput.xyz : input file from Step 0.0, used to train the GAP force field while starting the workflow.
+/GAPinput.xyz : input file from Step 0.0, used to train the GAP force field while starting the workflow.
 
-|
+/submit.sh : bash script to start workflow
 
-|---- <font color = 'red'>submit.sh</font> : bash script to start workflow
+/GAPtoLMP.py : convert xyz files to LAMMPS input format
 
-|
+/in.lmp.temp : LAMMPS input script
 
-|---- <font color = 'red'>GAPtoLMP.py </font>: convert xyz files to LAMMPS input format
+/DUMPtoPOSCAR.py : convert dump files to VASP input format
 
-|
-
-|---- <font color = 'red'>in.lmp.temp </font>: LAMMPS input script
-
-|
-
-|---- <font color = 'red'>DUMPtoPOSCAR.py</font> : convert dump files to VASP input format
-
-|
-
-|---- <font color = 'red'>INCAR, KPOINTS, POTCAR</font> : VASP input scripts
+/INCAR, /KPOINTS, /POTCAR : VASP input scripts
