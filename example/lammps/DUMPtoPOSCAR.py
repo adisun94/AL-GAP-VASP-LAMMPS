@@ -8,7 +8,7 @@ z_atom={3:'Li',15:'P',16:'S',17:'Cl'}
 d=io.read('dump',format='lammps-dump-text',index=':')
 
 n=0
-for i in range(configs_per_iter**(iteration-1),len(d),configs_per_iter**(iteration-1)):
+for i in range(1,len(d)):
 	n=n+1
 	f=open('POSCAR'+str(n),'w')
 	f.writelines('New POSCAR file\n')
@@ -16,7 +16,7 @@ for i in range(configs_per_iter**(iteration-1),len(d),configs_per_iter**(iterati
 	for j in range(3):
 		f.writelines(' '.join(d[i]._cellobj[j].astype(str))+'\n')
 	f.writelines(' '.join(z_atom.values())+'\n')
-	f.writelines('30 5 25 5\n')
+	f.writelines('96 16 80 16\n')
 	f.writelines('Cartesian\n')
 	for j in range(d[i].arrays['numbers'].shape[0]):
 		f.writelines(' '.join(d[i].arrays['positions'][j].astype(str))+'\n')

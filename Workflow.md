@@ -30,6 +30,10 @@ If MAE(E<sub>DFT</sub>, E<sub>GAP</sub>) $\leq$  $\epsilon$<sub>E</sub> and MAE(
 
 /INCAR, /KPOINTS, /POTCAR : VASP input scripts
 
+/submit.sh : VASP submission script
+
+/restart.py : executed as 'Python3.6 restart.py'; used to clean directory for continuing AL workflow
+
 #### ---- example
 /gap/GAP.xml : latest trained GAP force field
 

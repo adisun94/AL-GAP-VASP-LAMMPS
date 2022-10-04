@@ -21,7 +21,7 @@ thermo		1
 timestep	0.001
 thermo_style	custom step temp pe ke etotal
 
-dump		d1 all custom 5 dump id type x y z fx fy fz
+dump		d1 all custom 20 dump id type x y z fx fy fz
 
 variable poteng equal pe
 variable kineng equal ke
